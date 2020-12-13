@@ -60,9 +60,6 @@ default 개수는 옵션을 통해 설정가능하다.
 읽기 전용의 업무를 분담하여 수행하기도 한다.
 
 참고자료
-
 https://www.tutorialspoint.com/elasticsearch/elasticsearch_basic_concepts.htm
-
 https://logz.io/blog/10-elasticsearch-concepts/
-
 https://www.elastic.co/guide/en/elasticsearch/reference/current/scalability.html 
