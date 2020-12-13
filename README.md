@@ -59,7 +59,7 @@ Shard 를 만약의 경우를 대비하여 복사한것.
 default 개수는 옵션을 통해 설정가능하다.
 읽기 전용의 업무를 분담하여 수행하기도 한다.
 
-참고자료
-https://www.tutorialspoint.com/elasticsearch/elasticsearch_basic_concepts.htm
-https://logz.io/blog/10-elasticsearch-concepts/
+참고자료<br>
+https://www.tutorialspoint.com/elasticsearch/elasticsearch_basic_concepts.htm <br>
+https://logz.io/blog/10-elasticsearch-concepts/ <br>
 https://www.elastic.co/guide/en/elasticsearch/reference/current/scalability.html 
