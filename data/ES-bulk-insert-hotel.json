@@ -1,0 +1,1000 @@
+{"index":{"_index":"hotel-data", "_id":"1"}}
+{"name":"강릉 센트럴","location": {"lon": 128.89638159999998, "lat": 37.75757091},"name":"강원도","name":"MOTEL","name":"강원 강릉시 옥천동 176-4"}
+{"index":{"_index":"hotel-data", "_id":"2"}}
+{"name":"경포대 러블리","location": {"lon": 128.9027618, "lat": 37.80674747},"name":"강원도","name":"MOTEL","name":"강원 강릉시 안현동 857-6"}
+{"index":{"_index":"hotel-data", "_id":"3"}}
+{"name":"경포대 코아","location": {"lon": 128.9127358, "lat": 37.79973235},"name":"강원도","name":"MOTEL","name":"강원 강릉시 강문동 302-4"}
+{"index":{"_index":"hotel-data", "_id":"4"}}
+{"name":"경포대 쏠하우스","location": {"lon": 128.8938781, "lat": 37.81420185},"name":"강원도","name":"MOTEL","name":"강원 강릉시 안현동 224-39"}
+{"index":{"_index":"hotel-data", "_id":"5"}}
+{"name":"강릉 라메르","location": {"lon": 128.8777146, "lat": 37.82914433},"name":"강원도","name":"MOTEL","name":"강원 강릉시 사천면 방동리 68-1"}
+{"index":{"_index":"hotel-data", "_id":"6"}}
+{"name":"정동진 호텔 탑스빌","location": {"lon": 129.0365496, "lat": 37.68551079},"name":"강원도","name":"MOTEL","name":"강원 강릉시 강동면 정동진리 27-3"}
+{"index":{"_index":"hotel-data", "_id":"7"}}
+{"name":"강릉 메인","location": {"lon": 129.0390644, "lat": 37.61320937},"name":"강원도","name":"MOTEL","name":"강원 강릉시 옥계면 현내리 241-1"}
+{"index":{"_index":"hotel-data", "_id":"8"}}
+{"name":"경포대 스타비치","location": {"lon": 128.912453, "lat": 37.80038554},"name":"강원도","name":"MOTEL","name":"강원 강릉시 강문동 302-1"}
+{"index":{"_index":"hotel-data", "_id":"9"}}
+{"name":"강릉 스케치","location": {"lon": 128.8990043, "lat": 37.75914657},"name":"강원도","name":"MOTEL","name":"강원 강릉시 옥천동 281-3"}
+{"index":{"_index":"hotel-data", "_id":"10"}}
+{"name":"경포대 파라다이스","location": {"lon": 128.9222571, "lat": 37.7900393},"name":"강원도","name":"MOTEL","name":"강원 강릉시 강문동 308-2"}
+{"index":{"_index":"hotel-data", "_id":"11"}}
+{"name":"경포대 타임","location": {"lon": 128.9123164, "lat": 37.80054991},"name":"강원도","name":"MOTEL","name":"강원 강릉시 강문동 302"}
+{"index":{"_index":"hotel-data", "_id":"12"}}
+{"name":"경포대 이사벨","location": {"lon": 128.902517, "lat": 37.80818195},"name":"강원도","name":"MOTEL","name":"강원 강릉시 안현동 856"}
+{"index":{"_index":"hotel-data", "_id":"13"}}
+{"name":"경포대 굿모닝","location": {"lon": 128.9220671, "lat": 37.79024058},"name":"강원도","name":"MOTEL","name":"강원 강릉시 강문동 308-1"}
+{"index":{"_index":"hotel-data", "_id":"14"}}
+{"name":"정동진 다빈치","location": {"lon": 129.0419192, "lat": 37.68290999},"name":"강원도","name":"MOTEL","name":"강원 강릉시 강동면 정동진리 50-27"}
+{"index":{"_index":"hotel-data", "_id":"15"}}
+{"name":"동해 SM","location": {"lon": 129.117026, "lat": 37.51877229},"name":"강원도","name":"MOTEL","name":"강원 동해시 천곡동 900"}
+{"index":{"_index":"hotel-data", "_id":"16"}}
+{"name":"오산 몽","location": {"lon": 127.0692086, "lat": 37.148219},"name":"경기도","name":"MOTEL","name":"경기 오산시 오산동 877-24"}
+{"index":{"_index":"hotel-data", "_id":"17"}}
+{"name":"동해 리사","location": {"lon": 129.11488889999998, "lat": 37.5231923},"name":"강원도","name":"MOTEL","name":"강원 동해시 천곡동 846"}
+{"index":{"_index":"hotel-data", "_id":"18"}}
+{"name":"동해 대주호텔","location": {"lon": 129.1161886, "lat": 37.51987553},"name":"강원도","name":"MOTEL","name":"강원 동해시 천곡동 889"}
+{"index":{"_index":"hotel-data", "_id":"19"}}
+{"name":"동해 피그","location": {"lon": 129.1150947, "lat": 37.51942669},"name":"강원도","name":"MOTEL","name":"강원 동해시 천곡동 1016"}
+{"index":{"_index":"hotel-data", "_id":"20"}}
+{"name":"동해 피카소","location": {"lon": 129.1168021, "lat": 37.51949338},"name":"강원도","name":"MOTEL","name":"강원 동해시 천곡동 904-1"}
+{"index":{"_index":"hotel-data", "_id":"21"}}
+{"name":"속초 필모텔","location": {"lon": 128.597787, "lat": 38.1909569},"name":"강원도","name":"MOTEL","name":"강원 속초시 조양동 1410-5"}
+{"index":{"_index":"hotel-data", "_id":"22"}}
+{"name":"속초 칼즈배드","location": {"lon": 128.5649903, "lat": 38.20706577},"name":"강원도","name":"MOTEL","name":"강원 속초시 교동 793-1"}
+{"index":{"_index":"hotel-data", "_id":"23"}}
+{"name":"속초 추억","location": {"lon": 128.5896361, "lat": 38.19089461},"name":"강원도","name":"MOTEL","name":"강원 속초시 조양동 1554-3"}
+{"index":{"_index":"hotel-data", "_id":"24"}}
+{"name":"속초 버킹검궁","location": {"lon": 128.58035619999998, "lat": 38.19077128},"name":"강원도","name":"MOTEL","name":"강원 속초시 조양동 636-38"}
+{"index":{"_index":"hotel-data", "_id":"25"}}
+{"name":"속초 K","location": {"lon": 128.5872556, "lat": 38.20700099},"name":"강원도","name":"MOTEL","name":"강원 속초시 중앙동 501-7"}
+{"index":{"_index":"hotel-data", "_id":"26"}}
+{"name":"속초 아이리스","location": {"lon": 128.6007098, "lat": 38.18223681},"name":"강원도","name":"MOTEL","name":"강원 속초시 조양동 1287-9"}
+{"index":{"_index":"hotel-data", "_id":"27"}}
+{"name":"동암 피카소","location": {"lon": 126.7021331, "lat": 37.46992982},"name":"인천시/인천광역시","name":"MOTEL","name":"인천 부평구 십정동 동암광장로8번길 24"}
+{"index":{"_index":"hotel-data", "_id":"28"}}
+{"name":"수유 메리엘","location": {"lon": 127.021362653, "lat": 37.6348399867},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강북구 수유동 47-23"}
+{"index":{"_index":"hotel-data", "_id":"29"}}
+{"name":"낙산 콘도텔","location": {"lon": 128.6309726, "lat": 38.11899714},"name":"강원도","name":"MOTEL","name":"강원 양양군 강현면 전진리 7-59"}
+{"index":{"_index":"hotel-data", "_id":"30"}}
+{"name":"양양 힐하우스","location": {"lon": 128.6128918, "lat": 38.14134583},"name":"강원도","name":"MOTEL","name":"강원 양양군 강현면 정암리 18-15"}
+{"index":{"_index":"hotel-data", "_id":"31"}}
+{"name":"인구 파스텔","location": {"lon": 128.76216000000002, "lat": 37.96727431},"name":"강원도","name":"MOTEL","name":"강원 양양군 현남면 인구리 641-5"}
+{"index":{"_index":"hotel-data", "_id":"32"}}
+{"name":"양양 오렌지","location": {"lon": 128.6078012, "lat": 38.15490274},"name":"강원도","name":"MOTEL","name":"강원 양양군 강현면 물치리 64"}
+{"index":{"_index":"hotel-data", "_id":"33"}}
+{"name":"낙산 비치빌","location": {"lon": 128.63454240000002, "lat": 38.11524694},"name":"강원도","name":"MOTEL","name":"강원 양양군 양양읍 조산리 440-4"}
+{"index":{"_index":"hotel-data", "_id":"34"}}
+{"name":"원주 리츠칼튼","location": {"lon": 127.9292432, "lat": 37.3450539},"name":"강원도","name":"MOTEL","name":"강원 원주시 단계동 874-1"}
+{"index":{"_index":"hotel-data", "_id":"35"}}
+{"name":"왕십리 버니3","location": {"lon": 127.0348428, "lat": 37.56314672},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 성동구 도선동 116"}
+{"index":{"_index":"hotel-data", "_id":"36"}}
+{"name":"원주 첼로","location": {"lon": 127.93149409999998, "lat": 37.34381805},"name":"강원도","name":"MOTEL","name":"강원 원주시 단계동 882-4"}
+{"index":{"_index":"hotel-data", "_id":"37"}}
+{"name":"신촌 나인스타","location": {"lon": 126.93806609999999, "lat": 37.55648266},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 서대문구 창천동 29-52"}
+{"index":{"_index":"hotel-data", "_id":"38"}}
+{"name":"원주 린비아토","location": {"lon": 127.9468154, "lat": 37.35501653},"name":"강원도","name":"MOTEL","name":"강원 원주시 학성동 329-12"}
+{"index":{"_index":"hotel-data", "_id":"39"}}
+{"name":"원주 뉴스카이","location": {"lon": 127.94826780000001, "lat": 37.38396642},"name":"강원도","name":"MOTEL","name":"강원 원주시 태장동 1381-16"}
+{"index":{"_index":"hotel-data", "_id":"40"}}
+{"name":"원주 칸","location": {"lon": 127.95786240000001, "lat": 37.32654619},"name":"강원도","name":"MOTEL","name":"강원 원주시 단구동 701-9"}
+{"index":{"_index":"hotel-data", "_id":"41"}}
+{"name":"원주 원","location": {"lon": 127.95617539999999, "lat": 37.35794695},"name":"강원도","name":"MOTEL","name":"강원 원주시 태장동 700-19"}
+{"index":{"_index":"hotel-data", "_id":"42"}}
+{"name":"원주 헬로무인텔","location": {"lon": 127.9556544, "lat": 37.3578034},"name":"강원도","name":"MOTEL","name":"강원 원주시 태장동 700-42"}
+{"index":{"_index":"hotel-data", "_id":"43"}}
+{"name":"원주 로또","location": {"lon": 127.9556544, "lat": 37.3578034},"name":"강원도","name":"MOTEL","name":"강원 원주시 태장동 700-42"}
+{"index":{"_index":"hotel-data", "_id":"44"}}
+{"name":"춘천 피아노","location": {"lon": 127.7321504, "lat": 37.86536477},"name":"강원도","name":"MOTEL","name":"강원 춘천시 효자동 712-12"}
+{"index":{"_index":"hotel-data", "_id":"45"}}
+{"name":"춘천 리버사이드코지","location": {"lon": 127.6971293, "lat": 37.87059734},"name":"강원도","name":"MOTEL","name":"강원 춘천시 삼천동 산71-22"}
+{"index":{"_index":"hotel-data", "_id":"46"}}
+{"name":"춘천 3D시네마","location": {"lon": 127.7293409, "lat": 37.88240619},"name":"강원도","name":"MOTEL","name":"강원 춘천시 옥천동 42-6"}
+{"index":{"_index":"hotel-data", "_id":"47"}}
+{"name":"춘천 OST 호텔","location": {"lon": 127.72758999999999, "lat": 37.88236297},"name":"강원도","name":"MOTEL","name":"강원 춘천시 요선동 10-9"}
+{"index":{"_index":"hotel-data", "_id":"48"}}
+{"name":"이천 코지","location": {"lon": 127.4720618, "lat": 37.26296422},"name":"경기도","name":"MOTEL","name":"경기 이천시 부발읍 신하리 436-39"}
+{"index":{"_index":"hotel-data", "_id":"49"}}
+{"name":"춘천 S쁘띠","location": {"lon": 127.72454009999998, "lat": 37.86946964},"name":"강원도","name":"MOTEL","name":"강원 춘천시 효자동 590-7"}
+{"index":{"_index":"hotel-data", "_id":"50"}}
+{"name":"춘천 월드호텔-구 워커힐","location": {"lon": 127.7290405, "lat": 37.88145307},"name":"강원도","name":"MOTEL","name":"강원 춘천시 중앙로1가 62-3"}
+{"index":{"_index":"hotel-data", "_id":"51"}}
+{"name":"횡성 코지","location": {"lon": 127.9843489, "lat": 37.49019272},"name":"강원도","name":"MOTEL","name":"강원 횡성군 횡성읍 읍하리 134-19"}
+{"index":{"_index":"hotel-data", "_id":"52"}}
+{"name":"고양 작은성","location": {"lon": 126.83702209999998, "lat": 37.65473838},"name":"경기도","name":"MOTEL","name":"경기 고양시 덕양구 성사동 703-5"}
+{"index":{"_index":"hotel-data", "_id":"53"}}
+{"name":"일산 아망","location": {"lon": 126.83833390000001, "lat": 37.66231564},"name":"경기도","name":"MOTEL","name":"경기 고양시 덕양구 주교동 568-5"}
+{"index":{"_index":"hotel-data", "_id":"54"}}
+{"name":"일산 리비에라","location": {"lon": 126.8318068, "lat": 37.63573114},"name":"경기도","name":"MOTEL","name":"경기 고양시 덕양구 화정동 968-4"}
+{"index":{"_index":"hotel-data", "_id":"55"}}
+{"name":"일산 페이지","location": {"lon": 126.83118400000001, "lat": 37.63057301},"name":"경기도","name":"MOTEL","name":"경기 고양시 덕양구 화정동 1002-2"}
+{"index":{"_index":"hotel-data", "_id":"56"}}
+{"name":"일산 나이스","location": {"lon": 126.83547079999998, "lat": 37.62438749},"name":"경기도","name":"MOTEL","name":"경기 고양시 덕양구 행신동 945-2"}
+{"index":{"_index":"hotel-data", "_id":"57"}}
+{"name":"광명 코림","location": {"lon": 126.85243799999999, "lat": 37.47604084},"name":"경기도","name":"MOTEL","name":"경기 광명시 광명동 288-56"}
+{"index":{"_index":"hotel-data", "_id":"58"}}
+{"name":"광명 테마","location": {"lon": 126.85576979999999, "lat": 37.48363505},"name":"경기도","name":"MOTEL","name":"경기 광명시 광명동 94-2"}
+{"index":{"_index":"hotel-data", "_id":"59"}}
+{"name":"구리 POP","location": {"lon": 127.13750619999999, "lat": 37.59765551},"name":"경기도","name":"MOTEL","name":"경기 구리시 수택동 378-29"}
+{"index":{"_index":"hotel-data", "_id":"60"}}
+{"name":"구리 렉시","location": {"lon": 127.14103909999999, "lat": 37.59758647},"name":"경기도","name":"MOTEL","name":"경기 구리시 수택동 426-8"}
+{"index":{"_index":"hotel-data", "_id":"61"}}
+{"name":"구리 THE","location": {"lon": 127.14051409999998, "lat": 37.597861},"name":"경기도","name":"MOTEL","name":"경기 구리시 수택동 427-22"}
+{"index":{"_index":"hotel-data", "_id":"62"}}
+{"name":"금정 허브","location": {"lon": 126.94436699999999, "lat": 37.368232},"name":"경기도","name":"MOTEL","name":"경기 군포시 금정동 77-15"}
+{"index":{"_index":"hotel-data", "_id":"63"}}
+{"name":"군포 뷰","location": {"lon": 126.94603529999999, "lat": 37.352818},"name":"경기도","name":"MOTEL","name":"경기 군포시 당동 776-1"}
+{"index":{"_index":"hotel-data", "_id":"64"}}
+{"name":"산본 CF","location": {"lon": 126.9322875, "lat": 37.3583072},"name":"경기도","name":"MOTEL","name":"경기 군포시 산본동 1142-5"}
+{"index":{"_index":"hotel-data", "_id":"65"}}
+{"name":"금정 팔라틴","location": {"lon": 126.9438656, "lat": 37.36842639},"name":"경기도","name":"MOTEL","name":"경기 군포시 금정동 45-7"}
+{"index":{"_index":"hotel-data", "_id":"66"}}
+{"name":"금정 맥스","location": {"lon": 126.9438023, "lat": 37.36861377},"name":"경기도","name":"MOTEL","name":"경기 군포시 금정동 43-7"}
+{"index":{"_index":"hotel-data", "_id":"67"}}
+{"name":"금정 파티N","location": {"lon": 126.94365259999998, "lat": 37.36339856},"name":"경기도","name":"MOTEL","name":"경기 군포시 금정동 742-8"}
+{"index":{"_index":"hotel-data", "_id":"68"}}
+{"name":"금정 센트로","location": {"lon": 126.9444755, "lat": 37.36807347},"name":"경기도","name":"MOTEL","name":"경기 군포시 금정동 77-4"}
+{"index":{"_index":"hotel-data", "_id":"69"}}
+{"name":"금정 초콜릿","location": {"lon": 126.94244579999999, "lat": 37.37086929},"name":"경기도","name":"MOTEL","name":"경기 군포시 산본동 252-6"}
+{"index":{"_index":"hotel-data", "_id":"70"}}
+{"name":"김포 스카이","location": {"lon": 126.70896840000002, "lat": 37.62867344},"name":"경기도","name":"MOTEL","name":"경기 김포시 북변동 299-46"}
+{"index":{"_index":"hotel-data", "_id":"71"}}
+{"name":"부천 호텔K","location": {"lon": 126.7515785, "lat": 37.50682317},"name":"경기도","name":"MOTEL","name":"경기 부천시 원미구 상동 532-14"}
+{"index":{"_index":"hotel-data", "_id":"72"}}
+{"name":"부천 리젠시","location": {"lon": 126.7783493, "lat": 37.48303224},"name":"경기도","name":"MOTEL","name":"경기 부천시 소사구 심곡본동 666-1"}
+{"index":{"_index":"hotel-data", "_id":"73"}}
+{"name":"부천 캣츠호텔","location": {"lon": 126.78695079999999, "lat": 37.4847852},"name":"경기도","name":"MOTEL","name":"경기 부천시 원미구 심곡동 139-9"}
+{"index":{"_index":"hotel-data", "_id":"74"}}
+{"name":"부천 카라","location": {"lon": 126.77569790000001, "lat": 37.4834453},"name":"경기도","name":"MOTEL","name":"경기 부천시 소사구 심곡본동 561-2"}
+{"index":{"_index":"hotel-data", "_id":"75"}}
+{"name":"역곡 인플러스","location": {"lon": 126.8136763, "lat": 37.48617107},"name":"경기도","name":"MOTEL","name":"경기 부천시 원미구 역곡동 112-12"}
+{"index":{"_index":"hotel-data", "_id":"76"}}
+{"name":"부천 뉴스카이","location": {"lon": 126.7845769, "lat": 37.48461511},"name":"경기도","name":"MOTEL","name":"경기 부천시 원미구 심곡동 171-2"}
+{"index":{"_index":"hotel-data", "_id":"77"}}
+{"name":"부천 라망","location": {"lon": 126.78805659999999, "lat": 37.48396547},"name":"경기도","name":"MOTEL","name":"경기 부천시 원미구 심곡동  127-6"}
+{"index":{"_index":"hotel-data", "_id":"78"}}
+{"name":"부천 가자","location": {"lon": 126.78586940000001, "lat": 37.48493462},"name":"경기도","name":"MOTEL","name":"경기 부천시 원미구 심곡동 145-14"}
+{"index":{"_index":"hotel-data", "_id":"79"}}
+{"name":"부천 필름37.2","location": {"lon": 126.7840078, "lat": 37.48434017},"name":"경기도","name":"MOTEL","name":"경기 부천시 원미구 심곡동 172-16"}
+{"index":{"_index":"hotel-data", "_id":"80"}}
+{"name":"성남 MI","location": {"lon": 127.1378212, "lat": 37.43414833},"name":"경기도","name":"MOTEL","name":"경기 성남시 중원구 성남동 2332"}
+{"index":{"_index":"hotel-data", "_id":"81"}}
+{"name":"성남 초콜릿","location": {"lon": 127.14472659999998, "lat": 37.44090489},"name":"경기도","name":"MOTEL","name":"경기 성남시 수정구 신흥동 4203"}
+{"index":{"_index":"hotel-data", "_id":"82"}}
+{"name":"성남 황토방","location": {"lon": 127.1362222, "lat": 37.43466196},"name":"경기도","name":"MOTEL","name":"경기 성남시 중원구 성남동 2270"}
+{"index":{"_index":"hotel-data", "_id":"83"}}
+{"name":"성남 휴플러스","location": {"lon": 127.13578770000001, "lat": 37.43435971},"name":"경기도","name":"MOTEL","name":"경기 성남시 중원구 성남동 2277"}
+{"index":{"_index":"hotel-data", "_id":"84"}}
+{"name":"성남 아비숑","location": {"lon": 127.1369033, "lat": 37.43392594},"name":"경기도","name":"MOTEL","name":"경기 성남시 중원구 성남동 2327"}
+{"index":{"_index":"hotel-data", "_id":"85"}}
+{"name":"성남 루이스호텔","location": {"lon": 127.1316818, "lat": 37.43316781},"name":"경기도","name":"MOTEL","name":"경기 성남시 중원구 성남동  3253"}
+{"index":{"_index":"hotel-data", "_id":"86"}}
+{"name":"성남 에이스","location": {"lon": 127.1436638, "lat": 37.44060705},"name":"경기도","name":"MOTEL","name":"경기 성남시 수정구 신흥동 4502"}
+{"index":{"_index":"hotel-data", "_id":"87"}}
+{"name":"신촌 코자-COZA","location": {"lon": 126.93740919999999, "lat": 37.55710941},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 서대문구 창천동 18-72"}
+{"index":{"_index":"hotel-data", "_id":"88"}}
+{"name":"성남 호텔 인사이드","location": {"lon": 127.15998390000001, "lat": 37.45471037},"name":"경기도","name":"MOTEL","name":"경기 성남시 수정구 단대동 68-5"}
+{"index":{"_index":"hotel-data", "_id":"89"}}
+{"name":"성남 뉴타임","location": {"lon": 127.13116950000001, "lat": 37.43999447},"name":"경기도","name":"MOTEL","name":"경기 성남시 수정구 수진동 2954"}
+{"index":{"_index":"hotel-data", "_id":"90"}}
+{"name":"성남 E.JEN","location": {"lon": 127.15006869999999, "lat": 37.44290569},"name":"경기도","name":"MOTEL","name":"경기 성남시 수정구 신흥동 2556"}
+{"index":{"_index":"hotel-data", "_id":"91"}}
+{"name":"성남 The Q-더큐","location": {"lon": 127.1432142, "lat": 37.44184019},"name":"경기도","name":"MOTEL","name":"경기 성남시 수정구 신흥동 4517"}
+{"index":{"_index":"hotel-data", "_id":"92"}}
+{"name":"성남 소피아","location": {"lon": 127.14080359999998, "lat": 37.43629283},"name":"경기도","name":"MOTEL","name":"경기 성남시 중원구 성남동 2178"}
+{"index":{"_index":"hotel-data", "_id":"93"}}
+{"name":"성남 호텔팝콘","location": {"lon": 127.13567809999999, "lat": 37.43371471},"name":"경기도","name":"MOTEL","name":"경기 성남시 중원구 성남동 2295"}
+{"index":{"_index":"hotel-data", "_id":"94"}}
+{"name":"성남 렉시","location": {"lon": 127.13710719999999, "lat": 37.43419601},"name":"경기도","name":"MOTEL","name":"경기 성남시 중원구 성남동 2323"}
+{"index":{"_index":"hotel-data", "_id":"95"}}
+{"name":"수원역 M","location": {"lon": 127.0063452, "lat": 37.26917805},"name":"경기도","name":"MOTEL","name":"경기 수원시 팔달구 매산로2가 45-1"}
+{"index":{"_index":"hotel-data", "_id":"96"}}
+{"name":"수원 MUL","location": {"lon": 127.0159232, "lat": 37.24454983},"name":"경기도","name":"MOTEL","name":"경기 수원시 권선구 세류동 1158-49"}
+{"index":{"_index":"hotel-data", "_id":"97"}}
+{"name":"수원 무인텔 노블레스","location": {"lon": 127.03453359999999, "lat": 37.26483377},"name":"경기도","name":"MOTEL","name":"경기 수원시 팔달구 인계동 1115-19"}
+{"index":{"_index":"hotel-data", "_id":"98"}}
+{"name":"수원 호텔프라하","location": {"lon": 127.0266176, "lat": 37.25978997},"name":"경기도","name":"MOTEL","name":"경기 수원시 권선구 권선동 1020-14"}
+{"index":{"_index":"hotel-data", "_id":"99"}}
+{"name":"수원 THE 별","location": {"lon": 127.0030215, "lat": 37.26917458},"name":"경기도","name":"MOTEL","name":"경기 수원시 팔달구 매산로2가 26-26"}
+{"index":{"_index":"hotel-data", "_id":"100"}}
+{"name":"수원역 샤르망","location": {"lon": 127.00776129999998, "lat": 37.27023759},"name":"경기도","name":"MOTEL","name":"경기 수원시 팔달구 매산로2가 4-3"}
+{"index":{"_index":"hotel-data", "_id":"101"}}
+{"name":"수원 명작","location": {"lon": 127.00743200000001, "lat": 37.26923565},"name":"경기도","name":"MOTEL","name":"경기 수원시 팔달구 매산로2가 56-5"}
+{"index":{"_index":"hotel-data", "_id":"102"}}
+{"name":"수원 베네치아호텔","location": {"lon": 127.02968659999999, "lat": 37.26683539},"name":"경기도","name":"MOTEL","name":"경기 수원시 팔달구 인계동 1034-15"}
+{"index":{"_index":"hotel-data", "_id":"103"}}
+{"name":"수원 더모스트","location": {"lon": 127.02973119999999, "lat": 37.26534686},"name":"경기도","name":"MOTEL","name":"경기 수원시 팔달구 인계동 1032-9"}
+{"index":{"_index":"hotel-data", "_id":"104"}}
+{"name":"수원 르빌","location": {"lon": 127.031851, "lat": 37.27685801},"name":"경기도","name":"MOTEL","name":"경기 수원시 팔달구 인계동 940-26"}
+{"index":{"_index":"hotel-data", "_id":"105"}}
+{"name":"수원 뉴스카이","location": {"lon": 127.0050778, "lat": 37.26759949},"name":"경기도","name":"MOTEL","name":"경기 수원시 팔달구 매산로2가 65-28"}
+{"index":{"_index":"hotel-data", "_id":"106"}}
+{"name":"수원 캣츠호텔","location": {"lon": 127.0040497, "lat": 37.26889703},"name":"경기도","name":"MOTEL","name":"경기 수원시 팔달구 매산로2가 27-11"}
+{"index":{"_index":"hotel-data", "_id":"107"}}
+{"name":"건대 스타-STAR","location": {"lon": 127.0824374, "lat": 37.5448977},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 광진구 구의동 633-4"}
+{"index":{"_index":"hotel-data", "_id":"108"}}
+{"name":"수원 아리오소","location": {"lon": 127.02900759999999, "lat": 37.26010658},"name":"경기도","name":"MOTEL","name":"경기 수원시 권선구 권선동 1013-18"}
+{"index":{"_index":"hotel-data", "_id":"109"}}
+{"name":"수원 골든텔","location": {"lon": 127.0297064, "lat": 37.25980726},"name":"경기도","name":"MOTEL","name":"경기 수원시 권선구 권선동 1013-24"}
+{"index":{"_index":"hotel-data", "_id":"110"}}
+{"name":"수원 25H","location": {"lon": 127.02832659999999, "lat": 37.25986526},"name":"경기도","name":"MOTEL","name":"경기 수원시 권선구 권선동 1016"}
+{"index":{"_index":"hotel-data", "_id":"111"}}
+{"name":"수원 루시","location": {"lon": 127.0267666, "lat": 37.2602729},"name":"경기도","name":"MOTEL","name":"경기 수원시 권선구 권선동 1017-1"}
+{"index":{"_index":"hotel-data", "_id":"112"}}
+{"name":"수원 써니플러스","location": {"lon": 127.0276143, "lat": 37.26004204},"name":"경기도","name":"MOTEL","name":"경기 수원시 권선구 권선동 1017-4"}
+{"index":{"_index":"hotel-data", "_id":"113"}}
+{"name":"수원 IN","location": {"lon": 127.02876599999999, "lat": 37.26493983},"name":"경기도","name":"MOTEL","name":"경기 수원시 팔달구 인계동 1031-13"}
+{"index":{"_index":"hotel-data", "_id":"114"}}
+{"name":"수원 로제호텔","location": {"lon": 127.0349021, "lat": 37.26208728},"name":"경기도","name":"MOTEL","name":"경기 수원시 팔달구 인계동 1122-4"}
+{"index":{"_index":"hotel-data", "_id":"115"}}
+{"name":"수원 1박2일","location": {"lon": 127.0313624, "lat": 37.26253158},"name":"경기도","name":"MOTEL","name":"경기 수원시 팔달구 인계동 1046-12"}
+{"index":{"_index":"hotel-data", "_id":"116"}}
+{"name":"월곶 나비야","location": {"lon": 126.74045659999999, "lat": 37.39092197},"name":"경기도","name":"MOTEL","name":"경기 시흥시 월곶동 1002-7"}
+{"index":{"_index":"hotel-data", "_id":"117"}}
+{"name":"월곶 샤인","location": {"lon": 126.7410429589, "lat": 37.3911827526},"name":"경기도","name":"MOTEL","name":"경기 시흥시 월곶동 1003-14"}
+{"index":{"_index":"hotel-data", "_id":"118"}}
+{"name":"수원 아이리스","location": {"lon": 127.0316481, "lat": 37.26633391},"name":"경기도","name":"MOTEL","name":"경기 수원시 팔달구 인계동 1039-3"}
+{"index":{"_index":"hotel-data", "_id":"119"}}
+{"name":"월곶 문 호텔","location": {"lon": 126.7402904, "lat": 37.3906513},"name":"경기도","name":"MOTEL","name":"경기 시흥시 월곶동 1002-9"}
+{"index":{"_index":"hotel-data", "_id":"120"}}
+{"name":"월곶 호텔 반월","location": {"lon": 126.74078610000001, "lat": 37.38967928},"name":"경기도","name":"MOTEL","name":"경기 시흥시 월곶동 1005-20"}
+{"index":{"_index":"hotel-data", "_id":"121"}}
+{"name":"월곶 Design XYM","location": {"lon": 126.74064309999999, "lat": 37.39054034},"name":"경기도","name":"MOTEL","name":"경기 시흥시 월곶동 1003-11"}
+{"index":{"_index":"hotel-data", "_id":"122"}}
+{"name":"안산 파라오","location": {"lon": 126.84230659999999, "lat": 37.31735435},"name":"경기도","name":"MOTEL","name":"경기 안산시 단원구 고잔동 542-2"}
+{"index":{"_index":"hotel-data", "_id":"123"}}
+{"name":"안산 Q","location": {"lon": 126.84136240000001, "lat": 37.31785406},"name":"경기도","name":"MOTEL","name":"경기 안산시 단원구 고잔동 540-8"}
+{"index":{"_index":"hotel-data", "_id":"124"}}
+{"name":"안산 BIZ - 구 신라호텔","location": {"lon": 126.8597301, "lat": 37.32690561},"name":"경기도","name":"MOTEL","name":"경기 안산시 상록구 부곡동 685-6"}
+{"index":{"_index":"hotel-data", "_id":"125"}}
+{"name":"안산 캔","location": {"lon": 126.8374784, "lat": 37.31723609},"name":"경기도","name":"MOTEL","name":"경기 안산시 단원구 고잔동 541"}
+{"index":{"_index":"hotel-data", "_id":"126"}}
+{"name":"안산 H캐슬","location": {"lon": 126.8321351, "lat": 37.31335779},"name":"경기도","name":"MOTEL","name":"경기 안산시 단원구 고잔동 726-2"}
+{"index":{"_index":"hotel-data", "_id":"127"}}
+{"name":"안산 나무","location": {"lon": 126.808924, "lat": 37.33272721},"name":"경기도","name":"MOTEL","name":"경기 안산시 단원구 선부동 1072"}
+{"index":{"_index":"hotel-data", "_id":"128"}}
+{"name":"안산 아이린","location": {"lon": 126.79170970000001, "lat": 37.33426956},"name":"경기도","name":"MOTEL","name":"경기 안산시 단원구 원곡동 960-2"}
+{"index":{"_index":"hotel-data", "_id":"129"}}
+{"name":"안산 아이비","location": {"lon": 126.8085804, "lat": 37.33297534},"name":"경기도","name":"MOTEL","name":"경기 안산시 단원구 선부동 1071-14"}
+{"index":{"_index":"hotel-data", "_id":"130"}}
+{"name":"안산 패션","location": {"lon": 126.849484, "lat": 37.2799707},"name":"경기도","name":"MOTEL","name":"경기 안산시 상록구 사동 1480"}
+{"index":{"_index":"hotel-data", "_id":"131"}}
+{"name":"안산 드림","location": {"lon": 126.8374784, "lat": 37.31723609},"name":"경기도","name":"MOTEL","name":"경기 안산시 단원구 고잔동 541"}
+{"index":{"_index":"hotel-data", "_id":"132"}}
+{"name":"안산 O2-오투","location": {"lon": 126.8358668, "lat": 37.31748255},"name":"경기도","name":"MOTEL","name":"경기 안산시 단원구 고잔동 537-3"}
+{"index":{"_index":"hotel-data", "_id":"133"}}
+{"name":"안산 짝","location": {"lon": 126.83953079999999, "lat": 37.31763535},"name":"경기도","name":"MOTEL","name":"경기 안산시 단원구 고잔동 540-12"}
+{"index":{"_index":"hotel-data", "_id":"134"}}
+{"name":"안산 커플","location": {"lon": 126.83908329999998, "lat": 37.31796632},"name":"경기도","name":"MOTEL","name":"경기 안산시 단원구 고잔동 540-4"}
+{"index":{"_index":"hotel-data", "_id":"135"}}
+{"name":"안양 허브","location": {"lon": 126.9339598, "lat": 37.38729233},"name":"경기도","name":"MOTEL","name":"경기 안양시 만안구 안양동 529-15"}
+{"index":{"_index":"hotel-data", "_id":"136"}}
+{"name":"안양 펠리스","location": {"lon": 126.93356670000001, "lat": 37.38741465},"name":"경기도","name":"MOTEL","name":"경기 안양시 만안구 안양동 528-14"}
+{"index":{"_index":"hotel-data", "_id":"137"}}
+{"name":"안양 자미아","location": {"lon": 126.92183659999999, "lat": 37.40034976},"name":"경기도","name":"MOTEL","name":"경기 안양시 만안구 안양동 674-22"}
+{"index":{"_index":"hotel-data", "_id":"138"}}
+{"name":"안양 캘리포니아","location": {"lon": 126.97727179999998, "lat": 37.40101854},"name":"경기도","name":"MOTEL","name":"경기 안양시 동안구 관양동 1505-4"}
+{"index":{"_index":"hotel-data", "_id":"139"}}
+{"name":"안양 M","location": {"lon": 126.919936, "lat": 37.39920239},"name":"경기도","name":"MOTEL","name":"경기 안양시 만안구 안양동 676-161"}
+{"index":{"_index":"hotel-data", "_id":"140"}}
+{"name":"안양 더원","location": {"lon": 126.91975990000002, "lat": 37.39907613},"name":"경기도","name":"MOTEL","name":"경기 안양시 만안구 안양동 676-163"}
+{"index":{"_index":"hotel-data", "_id":"141"}}
+{"name":"평촌 27HOTEL","location": {"lon": 126.9605967, "lat": 37.39342035},"name":"경기도","name":"MOTEL","name":"경기 안양시 동안구 관양동 1602-1"}
+{"index":{"_index":"hotel-data", "_id":"142"}}
+{"name":"잠실 쉴","location": {"lon": 127.1135574, "lat": 37.51619482},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 송파구 방이동 48-1"}
+{"index":{"_index":"hotel-data", "_id":"143"}}
+{"name":"안양 코암관광호텔","location": {"lon": 126.931354, "lat": 37.39178875},"name":"경기도","name":"MOTEL","name":"경기 안양시 만안구 안양동 431-10"}
+{"index":{"_index":"hotel-data", "_id":"144"}}
+{"name":"화곡 부띠끄S","location": {"lon": 126.85009550000001, "lat": 37.55300158},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강서구 화곡동 1105-12"}
+{"index":{"_index":"hotel-data", "_id":"145"}}
+{"name":"양주 수 호텔","location": {"lon": 126.94677240000001, "lat": 37.77741092},"name":"경기도","name":"MOTEL","name":"경기 양주시 백석읍 기산리 272-2"}
+{"index":{"_index":"hotel-data", "_id":"146"}}
+{"name":"광명 쉘","location": {"lon": 126.8698097, "lat": 37.47481787},"name":"경기도","name":"MOTEL","name":"경기 광명시 철산동 435"}
+{"index":{"_index":"hotel-data", "_id":"147"}}
+{"name":"석남 더 라임","location": {"lon": 126.6710692, "lat": 37.50692916},"name":"인천시/인천광역시","name":"MOTEL","name":"인천 서구 석남동 518-13"}
+{"index":{"_index":"hotel-data", "_id":"148"}}
+{"name":"양주 전망좋은방","location": {"lon": 126.9435543, "lat": 37.7520959},"name":"경기도","name":"MOTEL","name":"경기 양주시 장흥면 석현리 282"}
+{"index":{"_index":"hotel-data", "_id":"149"}}
+{"name":"양주 해","location": {"lon": 126.9471562, "lat": 37.7230431},"name":"경기도","name":"MOTEL","name":"경기 양주시 장흥면 일영리 38-5"}
+{"index":{"_index":"hotel-data", "_id":"150"}}
+{"name":"양평 지오","location": {"lon": 127.4772253, "lat": 37.48968258},"name":"경기도","name":"MOTEL","name":"경기 양평군 강상면 병산리 756"}
+{"index":{"_index":"hotel-data", "_id":"151"}}
+{"name":"청주 뉴발리","location": {"lon": 127.4828781, "lat": 36.6574096},"name":"충북/충청북도/충청도","name":"MOTEL","name":"충북 청주시 청원구 내덕동 646-3"}
+{"index":{"_index":"hotel-data", "_id":"152"}}
+{"name":"양평 미션호텔","location": {"lon": 127.45498559999999, "lat": 37.49631158},"name":"경기도","name":"MOTEL","name":"경기 양평군 강상면 병산리 1059-1"}
+{"index":{"_index":"hotel-data", "_id":"153"}}
+{"name":"양평 8월호텔","location": {"lon": 127.5187277, "lat": 37.47137232},"name":"경기도","name":"MOTEL","name":"경기 양평군 양평읍 회현리 143-1"}
+{"index":{"_index":"hotel-data", "_id":"154"}}
+{"name":"여주 에코","location": {"lon": 127.653023, "lat": 37.29145255},"name":"경기도","name":"MOTEL","name":"경기 여주시 상동 37-4"}
+{"index":{"_index":"hotel-data", "_id":"155"}}
+{"name":"여주 J","location": {"lon": 127.65088130000001, "lat": 37.29314386},"name":"경기도","name":"MOTEL","name":"경기 여주시 상동 67"}
+{"index":{"_index":"hotel-data", "_id":"156"}}
+{"name":"여주 리버뷰 모텔&펜션","location": {"lon": 127.66674579999999, "lat": 37.28996324},"name":"경기도","name":"MOTEL","name":"경기 여주시 연양동 279-2"}
+{"index":{"_index":"hotel-data", "_id":"157"}}
+{"name":"여주 프린스","location": {"lon": 127.6364443, "lat": 37.29725174},"name":"경기도","name":"MOTEL","name":"경기 여주시 홍문동 16-8"}
+{"index":{"_index":"hotel-data", "_id":"158"}}
+{"name":"일산 그랜드","location": {"lon": 126.75938570000001, "lat": 37.67177103},"name":"경기도","name":"MOTEL","name":"경기 고양시 일산서구 주엽동 18-1"}
+{"index":{"_index":"hotel-data", "_id":"159"}}
+{"name":"오산 아이유","location": {"lon": 127.0693034, "lat": 37.14849647},"name":"경기도","name":"MOTEL","name":"경기 오산시 오산동 876-15"}
+{"index":{"_index":"hotel-data", "_id":"160"}}
+{"name":"용인 호텔리버","location": {"lon": 127.1075058, "lat": 37.27103961},"name":"경기도","name":"MOTEL","name":"경기 용인시 기흥구 신갈동  69-14"}
+{"index":{"_index":"hotel-data", "_id":"161"}}
+{"name":"용인 LEE디자인호텔","location": {"lon": 127.1504239, "lat": 37.27227594},"name":"경기도","name":"MOTEL","name":"경기 용인시 기흥구 중동 845-1"}
+{"index":{"_index":"hotel-data", "_id":"162"}}
+{"name":"신갈 오투-O2","location": {"lon": 127.0961594, "lat": 37.28907377},"name":"경기도","name":"MOTEL","name":"경기 용인시 기흥구 신갈동 537-57"}
+{"index":{"_index":"hotel-data", "_id":"163"}}
+{"name":"용인 스타호텔","location": {"lon": 127.0963754, "lat": 37.28871318},"name":"경기도","name":"MOTEL","name":"경기 용인시 기흥구 신갈동 536-6"}
+{"index":{"_index":"hotel-data", "_id":"164"}}
+{"name":"이천 미션","location": {"lon": 127.4896574, "lat": 37.25393648},"name":"경기도","name":"MOTEL","name":"경기 이천시 부발읍 아미리 737-13"}
+{"index":{"_index":"hotel-data", "_id":"165"}}
+{"name":"파주 에쿠스","location": {"lon": 126.7762739, "lat": 37.76108692},"name":"경기도","name":"MOTEL","name":"경기 파주시 아동동 331-2"}
+{"index":{"_index":"hotel-data", "_id":"166"}}
+{"name":"파주 택시-TAXI","location": {"lon": 126.77606170000001, "lat": 37.76072253},"name":"경기도","name":"MOTEL","name":"경기 파주시 아동동 334-34"}
+{"index":{"_index":"hotel-data", "_id":"167"}}
+{"name":"파주 시크릿","location": {"lon": 126.75715359999998, "lat": 37.80972977},"name":"경기도","name":"MOTEL","name":"경기 파주시 탄현면 금승리 11-39"}
+{"index":{"_index":"hotel-data", "_id":"168"}}
+{"name":"파주 이브텔","location": {"lon": 126.68633270000001, "lat": 37.78080031},"name":"경기도","name":"MOTEL","name":"경기 파주시 탄현면 성동리 666-2"}
+{"index":{"_index":"hotel-data", "_id":"169"}}
+{"name":"파주 에로스","location": {"lon": 126.68605759999998, "lat": 37.78035991},"name":"경기도","name":"MOTEL","name":"경기 파주시 탄현면 성동리 666-4"}
+{"index":{"_index":"hotel-data", "_id":"170"}}
+{"name":"파주 듀오텔","location": {"lon": 126.68554089999999, "lat": 37.78014951},"name":"경기도","name":"MOTEL","name":"경기 파주시 탄현면 성동리 666-6"}
+{"index":{"_index":"hotel-data", "_id":"171"}}
+{"name":"파주 벤","location": {"lon": 126.68424399999999, "lat": 37.79789132},"name":"경기도","name":"MOTEL","name":"경기 파주시 탄현면 성동리 124-10"}
+{"index":{"_index":"hotel-data", "_id":"172"}}
+{"name":"파주 벨리타N굿타임","location": {"lon": 126.68386799999999, "lat": 37.79873},"name":"경기도","name":"MOTEL","name":"경기 파주시 탄현면 성동리 124-50"}
+{"index":{"_index":"hotel-data", "_id":"173"}}
+{"name":"송탄 드라마","location": {"lon": 127.0559229, "lat": 37.0827114},"name":"경기도","name":"MOTEL","name":"경기 평택시 신장동  192-2"}
+{"index":{"_index":"hotel-data", "_id":"174"}}
+{"name":"평택 렉시","location": {"lon": 127.09146670000001, "lat": 36.99256726},"name":"경기도","name":"MOTEL","name":"경기 평택시 합정동 730-21"}
+{"index":{"_index":"hotel-data", "_id":"175"}}
+{"name":"포천 수목원호텔","location": {"lon": 127.1645979, "lat": 37.7724536},"name":"경기도","name":"MOTEL","name":"경기 포천시 소흘읍 직동리 350-1"}
+{"index":{"_index":"hotel-data", "_id":"176"}}
+{"name":"포천 쟈스민","location": {"lon": 127.16422060000001, "lat": 37.77227033},"name":"경기도","name":"MOTEL","name":"경기 포천시 소흘읍 직동리 354-4"}
+{"index":{"_index":"hotel-data", "_id":"177"}}
+{"name":"포천 발트 호텔","location": {"lon": 127.1468764, "lat": 37.82910411},"name":"경기도","name":"MOTEL","name":"경기 포천시 소흘읍 송우리 198"}
+{"index":{"_index":"hotel-data", "_id":"178"}}
+{"name":"포천 위드드라이브인","location": {"lon": 127.1564494, "lat": 37.77512434},"name":"경기도","name":"MOTEL","name":"경기 포천시 소흘읍 이곡리 34-1"}
+{"index":{"_index":"hotel-data", "_id":"179"}}
+{"name":"하남 그랜드윈저","location": {"lon": 127.2149023, "lat": 37.54121704},"name":"경기도","name":"MOTEL","name":"경기 하남시 신장동 522-2"}
+{"index":{"_index":"hotel-data", "_id":"180"}}
+{"name":"제부도 아일랜드","location": {"lon": 126.66130259999998, "lat": 37.17306408},"name":"경기도","name":"MOTEL","name":"경기 화성시 서신면 송교리 348-4"}
+{"index":{"_index":"hotel-data", "_id":"181"}}
+{"name":"병점 밀","location": {"lon": 127.0437264, "lat": 37.21464969},"name":"경기도","name":"MOTEL","name":"경기 화성시 병점동 844-5"}
+{"index":{"_index":"hotel-data", "_id":"182"}}
+{"name":"동탄 애니콜","location": {"lon": 127.07338429999999, "lat": 37.20131029},"name":"경기도","name":"MOTEL","name":"경기 화성시 반송동 106-2"}
+{"index":{"_index":"hotel-data", "_id":"183"}}
+{"name":"제부도 스위텔","location": {"lon": 126.6582185, "lat": 37.17381571},"name":"경기도","name":"MOTEL","name":"경기 화성시 서신면 송교리 378-11"}
+{"index":{"_index":"hotel-data", "_id":"184"}}
+{"name":"제부도 스테이7","location": {"lon": 126.62254879999999, "lat": 37.17607181},"name":"경기도","name":"MOTEL","name":"경기 화성시 서신면 제부리 288-43"}
+{"index":{"_index":"hotel-data", "_id":"185"}}
+{"name":"동탄 시크릿","location": {"lon": 127.07327590000001, "lat": 37.20576515},"name":"경기도","name":"MOTEL","name":"경기 화성시 반송동 88-9"}
+{"index":{"_index":"hotel-data", "_id":"186"}}
+{"name":"동탄 더스토리","location": {"lon": 127.0743615, "lat": 37.20537522},"name":"경기도","name":"MOTEL","name":"경기 화성시 반송동 90-7"}
+{"index":{"_index":"hotel-data", "_id":"187"}}
+{"name":"동탄 투헤븐","location": {"lon": 127.0738801, "lat": 37.20615403},"name":"경기도","name":"MOTEL","name":"경기 화성시 반송동 88-6"}
+{"index":{"_index":"hotel-data", "_id":"188"}}
+{"name":"동탄 애플","location": {"lon": 127.0733611, "lat": 37.20527853},"name":"경기도","name":"MOTEL","name":"경기 화성시 반송동 91-6"}
+{"index":{"_index":"hotel-data", "_id":"189"}}
+{"name":"월곶 짝","location": {"lon": 126.74119040000001, "lat": 37.3903289},"name":"경기도","name":"MOTEL","name":"경기 시흥시 월곶동 1004-9"}
+{"index":{"_index":"hotel-data", "_id":"190"}}
+{"name":"안산 반디호텔","location": {"lon": 126.80917690000001, "lat": 37.33268437},"name":"경기도","name":"MOTEL","name":"경기 안산시 단원구 선부동 1072-7"}
+{"index":{"_index":"hotel-data", "_id":"191"}}
+{"name":"오산 W호텔","location": {"lon": 127.07142169999999, "lat": 37.14597946},"name":"경기도","name":"MOTEL","name":"경기 오산시 원동 763-8"}
+{"index":{"_index":"hotel-data", "_id":"192"}}
+{"name":"거제 갤러리","location": {"lon": 128.6968727, "lat": 34.89304579},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 거제시 옥포동 1912-1"}
+{"index":{"_index":"hotel-data", "_id":"193"}}
+{"name":"거제 노블레스","location": {"lon": 128.695679, "lat": 34.8911698},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 거제시 옥포동 1943"}
+{"index":{"_index":"hotel-data", "_id":"194"}}
+{"name":"김해 하늘이열리는 MT365","location": {"lon": 128.9058655, "lat": 35.24461431},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 김해시 어방동 531-1"}
+{"index":{"_index":"hotel-data", "_id":"195"}}
+{"name":"김해 휴","location": {"lon": 128.8832682, "lat": 35.22775917},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 김해시 부원동 607-4"}
+{"index":{"_index":"hotel-data", "_id":"196"}}
+{"name":"김해 S","location": {"lon": 128.9092917, "lat": 35.24381772},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 김해시 삼방동 183-3"}
+{"index":{"_index":"hotel-data", "_id":"197"}}
+{"name":"양산 쇼","location": {"lon": 129.0395318, "lat": 35.3494371},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 양산시 북부동 692-9"}
+{"index":{"_index":"hotel-data", "_id":"198"}}
+{"name":"석산 WOW","location": {"lon": 129.0272981, "lat": 35.31639793},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 양산시 동면 석산리 1456-7"}
+{"index":{"_index":"hotel-data", "_id":"199"}}
+{"name":"석산 1박2일","location": {"lon": 129.0260616, "lat": 35.31654483},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 양산시 동면 석산리 1454-6"}
+{"index":{"_index":"hotel-data", "_id":"200"}}
+{"name":"석산 Q5","location": {"lon": 129.0260036, "lat": 35.31422084},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 양산시 동면 석산리 1479-8"}
+{"index":{"_index":"hotel-data", "_id":"201"}}
+{"name":"진주 호텔 여우비","location": {"lon": 128.080668, "lat": 35.19564142},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 진주시 계동 115"}
+{"index":{"_index":"hotel-data", "_id":"202"}}
+{"name":"진주 G&G","location": {"lon": 128.07536470000002, "lat": 35.19614289},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 진주시 봉곡동 25-9"}
+{"index":{"_index":"hotel-data", "_id":"203"}}
+{"name":"진주 호텔 더 브이","location": {"lon": 128.0865745, "lat": 35.19295316},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 진주시 장대동 131-9"}
+{"index":{"_index":"hotel-data", "_id":"204"}}
+{"name":"진주 EM","location": {"lon": 128.11009579999998, "lat": 35.16929882},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 진주시 상평동 240-17"}
+{"index":{"_index":"hotel-data", "_id":"205"}}
+{"name":"진주 K","location": {"lon": 128.08045, "lat": 35.19575873},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 진주시 계동 118-1"}
+{"index":{"_index":"hotel-data", "_id":"206"}}
+{"name":"진주 솜누스","location": {"lon": 128.0873811, "lat": 35.19086211},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 진주시 장대동 107-27"}
+{"index":{"_index":"hotel-data", "_id":"207"}}
+{"name":"명서 V","location": {"lon": 128.64907649999998, "lat": 35.2413502},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 창원시 의창구 명서동 203-3"}
+{"index":{"_index":"hotel-data", "_id":"208"}}
+{"name":"명서 좋은 날","location": {"lon": 128.6490058, "lat": 35.24089695},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 창원시 의창구 명서동 204-4"}
+{"index":{"_index":"hotel-data", "_id":"209"}}
+{"name":"팔용 멀티","location": {"lon": 128.6076534, "lat": 35.25625158},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 창원시 의창구 팔용동 155-2"}
+{"index":{"_index":"hotel-data", "_id":"210"}}
+{"name":"상남 토토스","location": {"lon": 128.6819954, "lat": 35.22085759},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 창원시 성산구 상남동 23-7"}
+{"index":{"_index":"hotel-data", "_id":"211"}}
+{"name":"용원 W","location": {"lon": 128.8122801, "lat": 35.100807},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 창원시 진해구 용원동 1213-13"}
+{"index":{"_index":"hotel-data", "_id":"212"}}
+{"name":"오동 쇼","location": {"lon": 128.5821085, "lat": 35.20435286},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 창원시 마산합포구 오동동 319-4"}
+{"index":{"_index":"hotel-data", "_id":"213"}}
+{"name":"창동 에코","location": {"lon": 128.57816699999998, "lat": 35.20312455},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 창원시 마산합포구 남성동 248-7"}
+{"index":{"_index":"hotel-data", "_id":"214"}}
+{"name":"통영 아이유","location": {"lon": 128.4212843, "lat": 34.88624155},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 통영시 광도면 죽림리 1571-7"}
+{"index":{"_index":"hotel-data", "_id":"215"}}
+{"name":"통영 락","location": {"lon": 128.4222351, "lat": 34.88403846},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 통영시 광도면 죽림리 1572-17"}
+{"index":{"_index":"hotel-data", "_id":"216"}}
+{"name":"통영 화진주","location": {"lon": 128.4243406, "lat": 34.84173892},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 통영시 항남동 114-14"}
+{"index":{"_index":"hotel-data", "_id":"217"}}
+{"name":"통영 와","location": {"lon": 128.4219098, "lat": 34.84075429},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 통영시 항남동 239-8"}
+{"index":{"_index":"hotel-data", "_id":"218"}}
+{"name":"문창 호텔 루이스","location": {"lon": 127.43356340000001, "lat": 36.3209072},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 문창동 44-4"}
+{"index":{"_index":"hotel-data", "_id":"219"}}
+{"name":"덕계 N","location": {"lon": 129.1467048, "lat": 35.3690559},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 양산시 덕계동 758-9"}
+{"index":{"_index":"hotel-data", "_id":"220"}}
+{"name":"성남 러쉬-LUSH","location": {"lon": 127.1376061, "lat": 37.4351433},"name":"경기도","name":"MOTEL","name":"경기 성남시 중원구 성남동 2222"}
+{"index":{"_index":"hotel-data", "_id":"221"}}
+{"name":"진주 해비치","location": {"lon": 128.0798014, "lat": 35.19553739},"name":"경남/경상남도/경상도","name":"MOTEL","name":"경남 진주시 봉곡동 66"}
+{"index":{"_index":"hotel-data", "_id":"222"}}
+{"name":"경산 발렌타인","location": {"lon": 128.72538020000002, "lat": 35.82761115},"name":"경북/경상북도/경상도","name":"MOTEL","name":"경북 경산시 옥산동 730-3"}
+{"index":{"_index":"hotel-data", "_id":"223"}}
+{"name":"경산 리베라","location": {"lon": 128.7255689, "lat": 35.82794366},"name":"경북/경상북도/경상도","name":"MOTEL","name":"경북 경산시 옥산동 727-9"}
+{"index":{"_index":"hotel-data", "_id":"224"}}
+{"name":"경주 J부티크","location": {"lon": 129.2032098, "lat": 35.84190748},"name":"경북/경상북도/경상도","name":"MOTEL","name":"경북 경주시 노서동 178-32"}
+{"index":{"_index":"hotel-data", "_id":"225"}}
+{"name":"경주 TOP","location": {"lon": 129.2609899, "lat": 35.80669883},"name":"경북/경상북도/경상도","name":"MOTEL","name":"경북 경주시 동방동 107-2"}
+{"index":{"_index":"hotel-data", "_id":"226"}}
+{"name":"경주 티포인트","location": {"lon": 129.2606427, "lat": 35.80709462},"name":"경북/경상북도/경상도","name":"MOTEL","name":"경북 경주시 동방동 267-21"}
+{"index":{"_index":"hotel-data", "_id":"227"}}
+{"name":"경주 B&B","location": {"lon": 129.303673, "lat": 35.77453215},"name":"경북/경상북도/경상도","name":"MOTEL","name":"경북 경주시 시래동 945-125"}
+{"index":{"_index":"hotel-data", "_id":"228"}}
+{"name":"경주 타임","location": {"lon": 129.2030858, "lat": 35.8401473},"name":"경북/경상북도/경상도","name":"MOTEL","name":"경북 경주시 노서동 181-24"}
+{"index":{"_index":"hotel-data", "_id":"229"}}
+{"name":"경주 로즈","location": {"lon": 129.2056097, "lat": 35.8409768},"name":"경북/경상북도/경상도","name":"MOTEL","name":"경북 경주시 노서동 132-11"}
+{"index":{"_index":"hotel-data", "_id":"230"}}
+{"name":"경주 달러","location": {"lon": 129.2041135, "lat": 35.8390544},"name":"경북/경상북도/경상도","name":"MOTEL","name":"경북 경주시 노서동 170-16"}
+{"index":{"_index":"hotel-data", "_id":"231"}}
+{"name":"경주 쇼","location": {"lon": 129.20234150000002, "lat": 35.84076285},"name":"경북/경상북도/경상도","name":"MOTEL","name":"경북 경주시 노서동 160-11"}
+{"index":{"_index":"hotel-data", "_id":"232"}}
+{"name":"포항 호텔 퐁네프","location": {"lon": 129.3465158, "lat": 36.0126265},"name":"경북/경상북도/경상도","name":"MOTEL","name":"경북 포항시 남구 대잠동  946-18"}
+{"index":{"_index":"hotel-data", "_id":"233"}}
+{"name":"포항 BB모텔","location": {"lon": 129.37449709999999, "lat": 36.0523569},"name":"경북/경상북도/경상도","name":"MOTEL","name":"경북 포항시 북구 항구동 29-18"}
+{"index":{"_index":"hotel-data", "_id":"234"}}
+{"name":"포항 호텔더반","location": {"lon": 129.3464188, "lat": 36.01354381},"name":"경북/경상북도/경상도","name":"MOTEL","name":"경북 포항시 남구 대잠동 944-22"}
+{"index":{"_index":"hotel-data", "_id":"235"}}
+{"name":"포항 쇼","location": {"lon": 129.3530888, "lat": 36.01587458},"name":"경북/경상북도/경상도","name":"MOTEL","name":"경북 포항시 북구 죽도동 718-6"}
+{"index":{"_index":"hotel-data", "_id":"236"}}
+{"name":"포항 애니","location": {"lon": 129.3548337, "lat": 36.01145427},"name":"경북/경상북도/경상도","name":"MOTEL","name":"경북 포항시 남구 상도동 640-28"}
+{"index":{"_index":"hotel-data", "_id":"237"}}
+{"name":"첨단 오늘","location": {"lon": 126.8476738, "lat": 35.21681567},"name":"광주시/광주광역시","name":"MOTEL","name":"광주 광산구 월계동 871-1"}
+{"index":{"_index":"hotel-data", "_id":"238"}}
+{"name":"쌍암 제이","location": {"lon": 126.8442567, "lat": 35.21863926},"name":"광주시/광주광역시","name":"MOTEL","name":"광주 광산구 쌍암동 668-14"}
+{"index":{"_index":"hotel-data", "_id":"239"}}
+{"name":"하남 VOLL","location": {"lon": 126.80328540000001, "lat": 35.16319687},"name":"광주시/광주광역시","name":"MOTEL","name":"광주 광산구 우산동 1574-9"}
+{"index":{"_index":"hotel-data", "_id":"240"}}
+{"name":"신안 아드리아","location": {"lon": 126.90386969999999, "lat": 35.16408639},"name":"광주시/광주광역시","name":"MOTEL","name":"광주 북구 신안동 141-17"}
+{"index":{"_index":"hotel-data", "_id":"241"}}
+{"name":"신안 드림","location": {"lon": 126.90639709999999, "lat": 35.16546204},"name":"광주시/광주광역시","name":"MOTEL","name":"광주 북구 신안동 123-22"}
+{"index":{"_index":"hotel-data", "_id":"242"}}
+{"name":"신안 아그네스","location": {"lon": 126.9040689, "lat": 35.16645893},"name":"광주시/광주광역시","name":"MOTEL","name":"광주 북구 신안동 126-2"}
+{"index":{"_index":"hotel-data", "_id":"243"}}
+{"name":"쌍촌 Q","location": {"lon": 126.86564820000001, "lat": 35.15203312},"name":"광주시/광주광역시","name":"MOTEL","name":"광주 서구 쌍촌동 956-20"}
+{"index":{"_index":"hotel-data", "_id":"244"}}
+{"name":"서구 나인","location": {"lon": 126.85673500000001, "lat": 35.15054828},"name":"광주시/광주광역시","name":"MOTEL","name":"광주 서구 쌍촌동 971-42"}
+{"index":{"_index":"hotel-data", "_id":"245"}}
+{"name":"치평 드라마","location": {"lon": 126.85088870000001, "lat": 35.15005449},"name":"광주시/광주광역시","name":"MOTEL","name":"광주 서구 치평동 1258-7"}
+{"index":{"_index":"hotel-data", "_id":"246"}}
+{"name":"치평 신라","location": {"lon": 126.85233810000001, "lat": 35.14961641},"name":"광주시/광주광역시","name":"MOTEL","name":"광주 서구 치평동 1261-6"}
+{"index":{"_index":"hotel-data", "_id":"247"}}
+{"name":"치평 발렌시아","location": {"lon": 126.8498864, "lat": 35.14845965},"name":"광주시/광주광역시","name":"MOTEL","name":"광주 서구 치평동 1255-6"}
+{"index":{"_index":"hotel-data", "_id":"248"}}
+{"name":"광주 호텔스퀘어","location": {"lon": 126.8797442, "lat": 35.15788874},"name":"광주시/광주광역시","name":"MOTEL","name":"광주 서구 화정동 23-11"}
+{"index":{"_index":"hotel-data", "_id":"249"}}
+{"name":"풍암 다이아","location": {"lon": 126.87907949999999, "lat": 35.12644137},"name":"광주시/광주광역시","name":"MOTEL","name":"광주 서구 풍암동 1117-11"}
+{"index":{"_index":"hotel-data", "_id":"250"}}
+{"name":"대명 무이-구 허니문","location": {"lon": 128.5750836, "lat": 35.8593303},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 남구 대명동 2274-3"}
+{"index":{"_index":"hotel-data", "_id":"251"}}
+{"name":"앞산 2월호텔","location": {"lon": 128.5824384, "lat": 35.84172974},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 남구 대명동 1699-12"}
+{"index":{"_index":"hotel-data", "_id":"252"}}
+{"name":"대현 로미오","location": {"lon": 128.6031929, "lat": 35.88550966},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 북구 대현동 412-8"}
+{"index":{"_index":"hotel-data", "_id":"253"}}
+{"name":"죽전 GG","location": {"lon": 128.5347302, "lat": 35.84687604},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 달서구 감삼동 559-5"}
+{"index":{"_index":"hotel-data", "_id":"254"}}
+{"name":"죽전 애플","location": {"lon": 128.535051, "lat": 35.84767217},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 달서구 감삼동 567-1"}
+{"index":{"_index":"hotel-data", "_id":"255"}}
+{"name":"성서 수","location": {"lon": 128.4869743, "lat": 35.84247337},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 달서구 호산동 709-5"}
+{"index":{"_index":"hotel-data", "_id":"256"}}
+{"name":"죽전 sky","location": {"lon": 128.534669, "lat": 35.84783565},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 달서구 감삼동 567-13"}
+{"index":{"_index":"hotel-data", "_id":"257"}}
+{"name":"죽전 투유","location": {"lon": 128.5328277, "lat": 35.84786276},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 달서구 감삼동 575-4"}
+{"index":{"_index":"hotel-data", "_id":"258"}}
+{"name":"용산 인어","location": {"lon": 128.5333561, "lat": 35.84311595},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 달서구 장기동 554-4"}
+{"index":{"_index":"hotel-data", "_id":"259"}}
+{"name":"성서 핑크","location": {"lon": 128.4888955, "lat": 35.83867551},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 달서구 호림동 11-15"}
+{"index":{"_index":"hotel-data", "_id":"260"}}
+{"name":"성서 DO","location": {"lon": 128.4891479, "lat": 35.83867959},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 달서구 호림동 11-14"}
+{"index":{"_index":"hotel-data", "_id":"261"}}
+{"name":"성서 노리","location": {"lon": 128.4901058, "lat": 35.84042678},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 달서구 호산동 711-2"}
+{"index":{"_index":"hotel-data", "_id":"262"}}
+{"name":"동대구역 와와","location": {"lon": 128.6288436, "lat": 35.86928282},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 동구 신천동 314-3"}
+{"index":{"_index":"hotel-data", "_id":"263"}}
+{"name":"동대구역 샹그리라","location": {"lon": 128.62649040000002, "lat": 35.87309949},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 동구 신천동 292-13"}
+{"index":{"_index":"hotel-data", "_id":"264"}}
+{"name":"신천 투하트","location": {"lon": 128.6283628, "lat": 35.87024094},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 동구 신천동 340-2"}
+{"index":{"_index":"hotel-data", "_id":"265"}}
+{"name":"동촌 임페리얼","location": {"lon": 128.6526871, "lat": 35.88038707},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 동구 효목동 1100-10"}
+{"index":{"_index":"hotel-data", "_id":"266"}}
+{"name":"동촌 힐","location": {"lon": 128.6490282, "lat": 35.89062018},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 동구 입석동 895-1"}
+{"index":{"_index":"hotel-data", "_id":"267"}}
+{"name":"신천 레지던스-R","location": {"lon": 128.6283314, "lat": 35.87043601},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 동구 신천동 340-1"}
+{"index":{"_index":"hotel-data", "_id":"268"}}
+{"name":"경북대 W","location": {"lon": 128.6033679, "lat": 35.88539918},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 북구 대현동 412-10"}
+{"index":{"_index":"hotel-data", "_id":"269"}}
+{"name":"경북대 꼬모","location": {"lon": 128.61378190000002, "lat": 35.89611298},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 북구 복현동 402-6"}
+{"index":{"_index":"hotel-data", "_id":"270"}}
+{"name":"수성 룩앤톡","location": {"lon": 128.6227295, "lat": 35.84134009},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 수성구 황금동 859-2"}
+{"index":{"_index":"hotel-data", "_id":"271"}}
+{"name":"수성 젠-ZEN","location": {"lon": 128.62153030000002, "lat": 35.8368001},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 수성구 두산동 87-15"}
+{"index":{"_index":"hotel-data", "_id":"272"}}
+{"name":"수성 첫눈","location": {"lon": 128.6214668, "lat": 35.83585296},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 수성구 두산동 81-5"}
+{"index":{"_index":"hotel-data", "_id":"273"}}
+{"name":"수성 대가야","location": {"lon": 128.6232183, "lat": 35.84143081},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 수성구 황금동 850-8"}
+{"index":{"_index":"hotel-data", "_id":"274"}}
+{"name":"동성로 사보이","location": {"lon": 128.5911257, "lat": 35.87259638},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 중구 대안동 80-1"}
+{"index":{"_index":"hotel-data", "_id":"275"}}
+{"name":"동성로 궁","location": {"lon": 128.60354569999998, "lat": 35.87159133},"name":"대구시/대구광역시","name":"MOTEL","name":"대구 중구 동인동1가 257-1"}
+{"index":{"_index":"hotel-data", "_id":"276"}}
+{"name":"대덕 그린","location": {"lon": 127.4308196, "lat": 36.45103856},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 대덕구 신탄진동 121-16"}
+{"index":{"_index":"hotel-data", "_id":"277"}}
+{"name":"중리 느낌표","location": {"lon": 127.4243298, "lat": 36.36042622},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 대덕구 중리동 402-8"}
+{"index":{"_index":"hotel-data", "_id":"278"}}
+{"name":"천안 L","location": {"lon": 127.14742360000001, "lat": 36.8018424},"name":"충남/충청남도/충청도","name":"MOTEL","name":"충남 천안시 동남구 사직동 236-3"}
+{"index":{"_index":"hotel-data", "_id":"279"}}
+{"name":"대전 보그","location": {"lon": 127.4358837, "lat": 36.35281478},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 동구 용전동 64-21"}
+{"index":{"_index":"hotel-data", "_id":"280"}}
+{"name":"대전 클릭21","location": {"lon": 127.4394462, "lat": 36.3507795},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 동구 용전동 111-3"}
+{"index":{"_index":"hotel-data", "_id":"281"}}
+{"name":"구의 마레","location": {"lon": 127.08616740000001, "lat": 37.53738071},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 광진구 구의동 246-39"}
+{"index":{"_index":"hotel-data", "_id":"282"}}
+{"name":"대전 아르데코","location": {"lon": 127.4388632, "lat": 36.35170805},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 동구 용전동 77-17"}
+{"index":{"_index":"hotel-data", "_id":"283"}}
+{"name":"제주 T무인텔","location": {"lon": 126.65468919999999, "lat": 33.4773171},"name":"제주도/제주특별자치도","name":"MOTEL","name":"제주도 제주시 조천읍 와흘리 36-1"}
+{"index":{"_index":"hotel-data", "_id":"284"}}
+{"name":"대전 XYM","location": {"lon": 127.4398959, "lat": 36.35150599},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 동구 용전동 78-30"}
+{"index":{"_index":"hotel-data", "_id":"285"}}
+{"name":"대전 MAX","location": {"lon": 127.43847029999999, "lat": 36.35157612},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 동구 용전동 77-13"}
+{"index":{"_index":"hotel-data", "_id":"286"}}
+{"name":"유성 루이스","location": {"lon": 127.34105100000001, "lat": 36.35721081},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 유성구 봉명동 440-3"}
+{"index":{"_index":"hotel-data", "_id":"287"}}
+{"name":"유성 잉카의 태양","location": {"lon": 127.35073179999999, "lat": 36.35648708},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 유성구 봉명동 692-7"}
+{"index":{"_index":"hotel-data", "_id":"288"}}
+{"name":"유성 시애틀","location": {"lon": 127.34538529999999, "lat": 36.3567694},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 유성구 봉명동 538-3"}
+{"index":{"_index":"hotel-data", "_id":"289"}}
+{"name":"유성 피카소","location": {"lon": 127.3377049, "lat": 36.35634797},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 유성구 봉명동 469-41"}
+{"index":{"_index":"hotel-data", "_id":"290"}}
+{"name":"파주 IMT","location": {"lon": 126.6878457, "lat": 37.77734104},"name":"경기도","name":"MOTEL","name":"경기 파주시 탄현면 성동리 679-1"}
+{"index":{"_index":"hotel-data", "_id":"291"}}
+{"name":"유성 리츠텔","location": {"lon": 127.34559899999999, "lat": 36.35672552},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 유성구 봉명동 538-13"}
+{"index":{"_index":"hotel-data", "_id":"292"}}
+{"name":"유성 맨하탄","location": {"lon": 127.34602120000001, "lat": 36.35747768},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 유성구 봉명동 633-3"}
+{"index":{"_index":"hotel-data", "_id":"293"}}
+{"name":"유성 스파타워","location": {"lon": 127.3508716, "lat": 36.35586666},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 유성구 봉명동 694-1"}
+{"index":{"_index":"hotel-data", "_id":"294"}}
+{"name":"유성 체리","location": {"lon": 127.3511078, "lat": 36.35585515},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 유성구 봉명동 694-2"}
+{"index":{"_index":"hotel-data", "_id":"295"}}
+{"name":"유성 시나브로","location": {"lon": 127.3491693, "lat": 36.35687736},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 유성구 봉명동 658-3"}
+{"index":{"_index":"hotel-data", "_id":"296"}}
+{"name":"대전 2050","location": {"lon": 127.3897619, "lat": 36.31358907},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 유천동 335-75"}
+{"index":{"_index":"hotel-data", "_id":"297"}}
+{"name":"대전 로즈마리","location": {"lon": 127.43059740000001, "lat": 36.31940755},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 대사동 64-10"}
+{"index":{"_index":"hotel-data", "_id":"298"}}
+{"name":"대전 유토","location": {"lon": 127.429819, "lat": 36.32367472},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 대흥동 31-7"}
+{"index":{"_index":"hotel-data", "_id":"299"}}
+{"name":"유천 풀하우스","location": {"lon": 127.3926463, "lat": 36.3150107},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 유천동 330-27"}
+{"index":{"_index":"hotel-data", "_id":"300"}}
+{"name":"대전 레이크","location": {"lon": 127.4161305, "lat": 36.32126114},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 대사동 248-269"}
+{"index":{"_index":"hotel-data", "_id":"301"}}
+{"name":"대전 콩","location": {"lon": 127.41795590000001, "lat": 36.33610256},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 선화동 116-2"}
+{"index":{"_index":"hotel-data", "_id":"302"}}
+{"name":"대전 잉카의태양","location": {"lon": 127.39347450000001, "lat": 36.31671301},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 유천동 306-10"}
+{"index":{"_index":"hotel-data", "_id":"303"}}
+{"name":"선화 리무진","location": {"lon": 127.423702, "lat": 36.32928025},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 선화동 32-2"}
+{"index":{"_index":"hotel-data", "_id":"304"}}
+{"name":"대전 무비스","location": {"lon": 127.43021770000001, "lat": 36.32650298},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 대흥동 4-7"}
+{"index":{"_index":"hotel-data", "_id":"305"}}
+{"name":"대전 코자자","location": {"lon": 127.3924152, "lat": 36.31421842},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 유천동 331-11"}
+{"index":{"_index":"hotel-data", "_id":"306"}}
+{"name":"대전 짝","location": {"lon": 127.4168345, "lat": 36.32129834},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 대사동 248-345"}
+{"index":{"_index":"hotel-data", "_id":"307"}}
+{"name":"상봉 유토피아","location": {"lon": 127.09387120000001, "lat": 37.5957161},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 중랑구 망우동  506-12"}
+{"index":{"_index":"hotel-data", "_id":"308"}}
+{"name":"고양 리베라","location": {"lon": 126.7478081, "lat": 37.67516695},"name":"경기도","name":"MOTEL","name":"경기 고양시 일산서구 대화동 2224-2"}
+{"index":{"_index":"hotel-data", "_id":"309"}}
+{"name":"은행 자우리","location": {"lon": 127.42365020000001, "lat": 36.32464478},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 대흥동 452-30"}
+{"index":{"_index":"hotel-data", "_id":"310"}}
+{"name":"대전 몽","location": {"lon": 127.43033740000001, "lat": 36.32558696},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 대흥동 92-5"}
+{"index":{"_index":"hotel-data", "_id":"311"}}
+{"name":"대전 BnB","location": {"lon": 127.4287759, "lat": 36.32597467},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 대흥동 133"}
+{"index":{"_index":"hotel-data", "_id":"312"}}
+{"name":"대전 L호텔","location": {"lon": 127.4206334, "lat": 36.33606433},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 선화동 91-6"}
+{"index":{"_index":"hotel-data", "_id":"313"}}
+{"name":"대전 리버사이드","location": {"lon": 127.42153219999999, "lat": 36.33584128},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 선화동 94-2"}
+{"index":{"_index":"hotel-data", "_id":"314"}}
+{"name":"대전 앙코르","location": {"lon": 127.4310173, "lat": 36.32042977},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 대흥동  49-6번지"}
+{"index":{"_index":"hotel-data", "_id":"315"}}
+{"name":"대전 산토리니","location": {"lon": 127.4309384, "lat": 36.32067157},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 대흥동 49-4"}
+{"index":{"_index":"hotel-data", "_id":"316"}}
+{"name":"대전 New앨리스","location": {"lon": 127.41706310000001, "lat": 36.33659953},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 선화동 104-11"}
+{"index":{"_index":"hotel-data", "_id":"317"}}
+{"name":"대전 카이텔","location": {"lon": 127.419678643, "lat": 36.3358117604},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 선화동 88-1"}
+{"index":{"_index":"hotel-data", "_id":"318"}}
+{"name":"대전 킹모텔","location": {"lon": 127.42064409999999, "lat": 36.33640674},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 선화동 87-16"}
+{"index":{"_index":"hotel-data", "_id":"319"}}
+{"name":"대전 YOU","location": {"lon": 127.4206077, "lat": 36.33542639},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 선화동  94-26"}
+{"index":{"_index":"hotel-data", "_id":"320"}}
+{"name":"대전 109","location": {"lon": 127.3939765, "lat": 36.31557587},"name":"대전시/대전광역시","name":"MOTEL","name":"대전 중구 유천동 300-23"}
+{"index":{"_index":"hotel-data", "_id":"321"}}
+{"name":"명지 JK","location": {"lon": 128.9285159, "lat": 35.10017758},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 강서구 명지동 1530-16"}
+{"index":{"_index":"hotel-data", "_id":"322"}}
+{"name":"명지 W","location": {"lon": 128.9287705, "lat": 35.10074669},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 강서구 명지동 1532-12"}
+{"index":{"_index":"hotel-data", "_id":"323"}}
+{"name":"구서역 SHOW","location": {"lon": 129.0917138, "lat": 35.24605675},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 금정구 구서동 84-10"}
+{"index":{"_index":"hotel-data", "_id":"324"}}
+{"name":"구서 V","location": {"lon": 129.0916668, "lat": 35.24798962},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 금정구 구서동 85-29"}
+{"index":{"_index":"hotel-data", "_id":"325"}}
+{"name":"기장 오즈","location": {"lon": 129.2271586, "lat": 35.22080817},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 기장군 기장읍 대변리 277-1"}
+{"index":{"_index":"hotel-data", "_id":"326"}}
+{"name":"기장 V","location": {"lon": 129.2257524, "lat": 35.21788918},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 기장군 기장읍 연화리 214-6"}
+{"index":{"_index":"hotel-data", "_id":"327"}}
+{"name":"대연 V","location": {"lon": 129.0862472, "lat": 35.13529133},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 남구 대연동 1763-14"}
+{"index":{"_index":"hotel-data", "_id":"328"}}
+{"name":"범일 더디자인","location": {"lon": 129.0569238, "lat": 35.14058339},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 동구 범일동 62-735"}
+{"index":{"_index":"hotel-data", "_id":"329"}}
+{"name":"동래 VOV","location": {"lon": 129.0832844, "lat": 35.20458355},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 동래구 명륜동 374"}
+{"index":{"_index":"hotel-data", "_id":"330"}}
+{"name":"온천장 9월","location": {"lon": 129.07900800000002, "lat": 35.21565113},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 동래구 온천동 444-47"}
+{"index":{"_index":"hotel-data", "_id":"331"}}
+{"name":"온천장 G&G","location": {"lon": 129.07925490000002, "lat": 35.21585956},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 동래구 온천동 450-3"}
+{"index":{"_index":"hotel-data", "_id":"332"}}
+{"name":"온천장 보노","location": {"lon": 129.0792348, "lat": 35.21558596},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 동래구 온천동 450-5"}
+{"index":{"_index":"hotel-data", "_id":"333"}}
+{"name":"온천장 라찌","location": {"lon": 129.0800314, "lat": 35.21479007},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 동래구 온천동 456-16"}
+{"index":{"_index":"hotel-data", "_id":"334"}}
+{"name":"온천장 Oh","location": {"lon": 129.0795252, "lat": 35.21612526},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 동래구 온천동  450-1"}
+{"index":{"_index":"hotel-data", "_id":"335"}}
+{"name":"범천 이그니스","location": {"lon": 129.0616397, "lat": 35.14835055},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 부산진구 범천동 859-31"}
+{"index":{"_index":"hotel-data", "_id":"336"}}
+{"name":"서면 콤마","location": {"lon": 129.0601395, "lat": 35.1485527},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 부산진구 범천동 858-65"}
+{"index":{"_index":"hotel-data", "_id":"337"}}
+{"name":"서면 IB","location": {"lon": 129.0572742, "lat": 35.1522349},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 부산진구 부전동 522-28"}
+{"index":{"_index":"hotel-data", "_id":"338"}}
+{"name":"서면 아이유","location": {"lon": 129.05703490000002, "lat": 35.15249129},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 부산진구 부전동 522-25"}
+{"index":{"_index":"hotel-data", "_id":"339"}}
+{"name":"서면 WE","location": {"lon": 129.0555502, "lat": 35.15366277},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 부산진구 부전동 525-11"}
+{"index":{"_index":"hotel-data", "_id":"340"}}
+{"name":"서면 짝","location": {"lon": 129.0564986, "lat": 35.15297981},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 부산진구 부전동 524-48"}
+{"index":{"_index":"hotel-data", "_id":"341"}}
+{"name":"서면 호텔미니","location": {"lon": 129.05481740000002, "lat": 35.1529723},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 부산진구 부전동 457-4"}
+{"index":{"_index":"hotel-data", "_id":"342"}}
+{"name":"서면 라이온","location": {"lon": 129.05614920000002, "lat": 35.15514133},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 부산진구 부전동 519-26"}
+{"index":{"_index":"hotel-data", "_id":"343"}}
+{"name":"서면 G&G","location": {"lon": 129.0603453, "lat": 35.14870781},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 부산진구 범천동 858-67"}
+{"index":{"_index":"hotel-data", "_id":"344"}}
+{"name":"상봉 공감","location": {"lon": 127.0903517, "lat": 37.59554225},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 중랑구 상봉동 88-29"}
+{"index":{"_index":"hotel-data", "_id":"345"}}
+{"name":"구포 IU","location": {"lon": 129.00106499999998, "lat": 35.20899512},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 북구 구포동 500"}
+{"index":{"_index":"hotel-data", "_id":"346"}}
+{"name":"사상 더파티","location": {"lon": 128.97958640000002, "lat": 35.16151403},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 사상구 괘법동 566-6"}
+{"index":{"_index":"hotel-data", "_id":"347"}}
+{"name":"사상 V1STORY","location": {"lon": 128.9866605, "lat": 35.15205479},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 사상구 감전동 155-21"}
+{"index":{"_index":"hotel-data", "_id":"348"}}
+{"name":"사상 라찌","location": {"lon": 128.98379609999998, "lat": 35.16134061},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 사상구 괘법동 559-10"}
+{"index":{"_index":"hotel-data", "_id":"349"}}
+{"name":"사상 호텔V1","location": {"lon": 128.9776747, "lat": 35.16177957},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 사상구 괘법동 569-16"}
+{"index":{"_index":"hotel-data", "_id":"350"}}
+{"name":"사상 보브","location": {"lon": 128.977439, "lat": 35.18557806},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 사상구 삼락동 353-2"}
+{"index":{"_index":"hotel-data", "_id":"351"}}
+{"name":"괴정 와우","location": {"lon": 128.99333629999998, "lat": 35.10058152},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 사하구 괴정동 1002-1"}
+{"index":{"_index":"hotel-data", "_id":"352"}}
+{"name":"괴정 GT","location": {"lon": 128.9907446, "lat": 35.09862349},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 사하구 괴정동 858"}
+{"index":{"_index":"hotel-data", "_id":"353"}}
+{"name":"하단 퀸","location": {"lon": 128.9644227, "lat": 35.10717449},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 사하구 하단동 515-21"}
+{"index":{"_index":"hotel-data", "_id":"354"}}
+{"name":"하단 E","location": {"lon": 128.9656983, "lat": 35.10877954},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 사하구 하단동 513-3"}
+{"index":{"_index":"hotel-data", "_id":"355"}}
+{"name":"송도 아이비","location": {"lon": 129.0170023, "lat": 35.07718105},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 서구 암남동 351-4"}
+{"index":{"_index":"hotel-data", "_id":"356"}}
+{"name":"송도 WELL","location": {"lon": 129.0137042, "lat": 35.06484282},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 서구 암남동 622-57"}
+{"index":{"_index":"hotel-data", "_id":"357"}}
+{"name":"광안리 미니스토리호텔","location": {"lon": 129.1253413, "lat": 35.15644843},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 수영구 민락동 181-80"}
+{"index":{"_index":"hotel-data", "_id":"358"}}
+{"name":"연산 아마레","location": {"lon": 129.0786362, "lat": 35.18642051},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 연제구 연산동 1255-6"}
+{"index":{"_index":"hotel-data", "_id":"359"}}
+{"name":"연산 카리브","location": {"lon": 129.0828495, "lat": 35.1854902},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 연제구 연산동 739-8"}
+{"index":{"_index":"hotel-data", "_id":"360"}}
+{"name":"연산 369","location": {"lon": 129.0797141, "lat": 35.18564503},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 연제구 연산동 1244-4"}
+{"index":{"_index":"hotel-data", "_id":"361"}}
+{"name":"연산 이즈","location": {"lon": 129.0798732, "lat": 35.18551253},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 연제구 연산동 1244-18"}
+{"index":{"_index":"hotel-data", "_id":"362"}}
+{"name":"연산 9월","location": {"lon": 129.0787824, "lat": 35.18664509},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 연제구 연산동 1143-9"}
+{"index":{"_index":"hotel-data", "_id":"363"}}
+{"name":"연산 토곡 N","location": {"lon": 129.1065374, "lat": 35.18515964},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 연제구 연산동 417-12"}
+{"index":{"_index":"hotel-data", "_id":"364"}}
+{"name":"연산 아바-AVA","location": {"lon": 129.0792669, "lat": 35.18549771},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 연제구 연산동 1279-6"}
+{"index":{"_index":"hotel-data", "_id":"365"}}
+{"name":"연산 MU","location": {"lon": 129.0795406, "lat": 35.18573092},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 연제구 연산동 1244-17"}
+{"index":{"_index":"hotel-data", "_id":"366"}}
+{"name":"영도 나인","location": {"lon": 129.0383937, "lat": 35.09029403},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 영도구 남항동1가 86-4"}
+{"index":{"_index":"hotel-data", "_id":"367"}}
+{"name":"부산역 에이스원","location": {"lon": 129.0376513, "lat": 35.10857151},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 중구 중앙동4가 81-8"}
+{"index":{"_index":"hotel-data", "_id":"368"}}
+{"name":"해운대 MK스테이","location": {"lon": 129.1579512, "lat": 35.16106953},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 해운대구 우동 636-5"}
+{"index":{"_index":"hotel-data", "_id":"369"}}
+{"name":"해운대 투헤븐","location": {"lon": 129.1602408, "lat": 35.16084487},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 해운대구 우동 1366-1"}
+{"index":{"_index":"hotel-data", "_id":"370"}}
+{"name":"해운대 호텔 준","location": {"lon": 129.1587315, "lat": 35.16202886},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 해운대구 우동 541-20"}
+{"index":{"_index":"hotel-data", "_id":"371"}}
+{"name":"해운대 와우","location": {"lon": 129.1591807, "lat": 35.16058984},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 해운대구 우동 635-3"}
+{"index":{"_index":"hotel-data", "_id":"372"}}
+{"name":"해운대 호텔 폭시","location": {"lon": 129.15830309999998, "lat": 35.16126512},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 해운대구 우동 636-4"}
+{"index":{"_index":"hotel-data", "_id":"373"}}
+{"name":"재송 세븐","location": {"lon": 129.1217671, "lat": 35.18409345},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 해운대구 재송동 1095-4"}
+{"index":{"_index":"hotel-data", "_id":"374"}}
+{"name":"해운대 호텔 V","location": {"lon": 129.1577371, "lat": 35.1612752},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 해운대구 우동 637-6"}
+{"index":{"_index":"hotel-data", "_id":"375"}}
+{"name":"해운대 SS","location": {"lon": 129.15808470000002, "lat": 35.16147086},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 해운대구 우동 637-14"}
+{"index":{"_index":"hotel-data", "_id":"376"}}
+{"name":"해운대 호텔 여우비","location": {"lon": 129.15799040000002, "lat": 35.16222229},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 해운대구 우동 638-1"}
+{"index":{"_index":"hotel-data", "_id":"377"}}
+{"name":"송정 V","location": {"lon": 129.2050472, "lat": 35.18232766},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 해운대구 송정동 206-18"}
+{"index":{"_index":"hotel-data", "_id":"378"}}
+{"name":"해운대 윈호텔","location": {"lon": 129.1575853, "lat": 35.16084536},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 해운대구 우동 636-9"}
+{"index":{"_index":"hotel-data", "_id":"379"}}
+{"name":"해운대 호텔 G&G","location": {"lon": 129.15833419999998, "lat": 35.1616106},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 해운대구 우동 637-2"}
+{"index":{"_index":"hotel-data", "_id":"380"}}
+{"name":"해운대 호텔WA","location": {"lon": 129.1572844, "lat": 35.16158245},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 해운대구 우동 638-15"}
+{"index":{"_index":"hotel-data", "_id":"381"}}
+{"name":"장안 동경 호텔","location": {"lon": 127.0689713, "lat": 37.56910712},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 동대문구 장안동 373-4"}
+{"index":{"_index":"hotel-data", "_id":"382"}}
+{"name":"만덕 W","location": {"lon": 129.0469219, "lat": 35.21109754},"name":"부산시/부산광역시","name":"MOTEL","name":"부산 북구 만덕동 74-5"}
+{"index":{"_index":"hotel-data", "_id":"383"}}
+{"name":"역삼 VOLE","location": {"lon": 127.03309750000001, "lat": 37.50679143},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강남구 역삼동 606"}
+{"index":{"_index":"hotel-data", "_id":"384"}}
+{"name":"역삼 벤","location": {"lon": 127.03988030000001, "lat": 37.50072377},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강남구 역삼동 718-28"}
+{"index":{"_index":"hotel-data", "_id":"385"}}
+{"name":"양평 뉴욕","location": {"lon": 127.4811564, "lat": 37.48766641},"name":"경기도","name":"MOTEL","name":"경기 양평군 강상면 교평리 396-2"}
+{"index":{"_index":"hotel-data", "_id":"386"}}
+{"name":"강남 시애틀","location": {"lon": 127.02998059999999, "lat": 37.49585405},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강남구 역삼동 826-41"}
+{"index":{"_index":"hotel-data", "_id":"387"}}
+{"name":"천호 펠리스","location": {"lon": 127.12630490000001, "lat": 37.53873935},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강동구 천호동 454-30"}
+{"index":{"_index":"hotel-data", "_id":"388"}}
+{"name":"천호 프라자","location": {"lon": 127.1287969, "lat": 37.54036926},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강동구 천호동 550"}
+{"index":{"_index":"hotel-data", "_id":"389"}}
+{"name":"천호 UNI","location": {"lon": 127.126112, "lat": 37.53977029},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강동구 천호동 416-10"}
+{"index":{"_index":"hotel-data", "_id":"390"}}
+{"name":"천호 ON","location": {"lon": 127.12198500000001, "lat": 37.54577528},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강동구 천호동 328"}
+{"index":{"_index":"hotel-data", "_id":"391"}}
+{"name":"부천 호텔버스","location": {"lon": 126.7790023, "lat": 37.48552024},"name":"경기도","name":"MOTEL","name":"경기 부천시 원미구 심곡동 391-1"}
+{"index":{"_index":"hotel-data", "_id":"392"}}
+{"name":"수유 짝","location": {"lon": 127.0254781, "lat": 37.6368826},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강북구 번동 446-39"}
+{"index":{"_index":"hotel-data", "_id":"393"}}
+{"name":"수유 L","location": {"lon": 127.02494320000001, "lat": 37.63637816},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강북구 번동 446-59"}
+{"index":{"_index":"hotel-data", "_id":"394"}}
+{"name":"수유 M","location": {"lon": 127.0250293, "lat": 37.63646103},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강북구 번동 446-58"}
+{"index":{"_index":"hotel-data", "_id":"395"}}
+{"name":"수유 피카소","location": {"lon": 127.0222827, "lat": 37.63532995},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강북구 수유동 45-52"}
+{"index":{"_index":"hotel-data", "_id":"396"}}
+{"name":"수유 리치","location": {"lon": 127.0219288, "lat": 37.63408305},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강북구 수유동 48-26"}
+{"index":{"_index":"hotel-data", "_id":"397"}}
+{"name":"수유 Soo","location": {"lon": 127.0205876, "lat": 37.63473561},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강북구 수유동 47-63"}
+{"index":{"_index":"hotel-data", "_id":"398"}}
+{"name":"수유 파티오","location": {"lon": 127.02453059999999, "lat": 37.63581964},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강북구 번동 446-6"}
+{"index":{"_index":"hotel-data", "_id":"399"}}
+{"name":"화곡 쟈스민","location": {"lon": 126.84073980000001, "lat": 37.52903357},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강서구 화곡동 923-8"}
+{"index":{"_index":"hotel-data", "_id":"400"}}
+{"name":"화곡 레인보우","location": {"lon": 126.8418064, "lat": 37.52968733},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강서구 화곡동 924-24"}
+{"index":{"_index":"hotel-data", "_id":"401"}}
+{"name":"화곡 초콜릿","location": {"lon": 126.84672179999998, "lat": 37.52926493},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강서구 화곡동 902-8"}
+{"index":{"_index":"hotel-data", "_id":"402"}}
+{"name":"화곡 메이-MAI","location": {"lon": 126.83970649999999, "lat": 37.52976018},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강서구 화곡동 938-5"}
+{"index":{"_index":"hotel-data", "_id":"403"}}
+{"name":"화곡 S","location": {"lon": 126.8446879, "lat": 37.53024257},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강서구 화곡동 918-23"}
+{"index":{"_index":"hotel-data", "_id":"404"}}
+{"name":"화곡 블루힐","location": {"lon": 126.84835259999998, "lat": 37.54631395},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강서구 화곡동 29-69"}
+{"index":{"_index":"hotel-data", "_id":"405"}}
+{"name":"화곡 설레임","location": {"lon": 126.84657800000001, "lat": 37.54645942},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강서구 화곡동 24-77"}
+{"index":{"_index":"hotel-data", "_id":"406"}}
+{"name":"화곡 에코","location": {"lon": 126.84716840000002, "lat": 37.54550513},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강서구 화곡동 24-150"}
+{"index":{"_index":"hotel-data", "_id":"407"}}
+{"name":"화곡 크로체","location": {"lon": 126.8479192, "lat": 37.54575477},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강서구 화곡동 29-58"}
+{"index":{"_index":"hotel-data", "_id":"408"}}
+{"name":"화곡 커플-강서구청","location": {"lon": 126.84632930000001, "lat": 37.54632935},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강서구 화곡동 24-101"}
+{"index":{"_index":"hotel-data", "_id":"409"}}
+{"name":"화곡 메이트호텔","location": {"lon": 126.840851, "lat": 37.52993112},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강서구 화곡동 921-6"}
+{"index":{"_index":"hotel-data", "_id":"410"}}
+{"name":"화곡 VOLL","location": {"lon": 126.8466369, "lat": 37.52875306},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강서구 화곡동 905-8"}
+{"index":{"_index":"hotel-data", "_id":"411"}}
+{"name":"화곡 리얼부티크호텔-구 J","location": {"lon": 126.8406475, "lat": 37.52985516},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 강서구 화곡동 921-10"}
+{"index":{"_index":"hotel-data", "_id":"412"}}
+{"name":"왕십리 현대","location": {"lon": 127.0322568, "lat": 37.56117968},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 성동구 하왕십리동 970-61"}
+{"index":{"_index":"hotel-data", "_id":"413"}}
+{"name":"신림 루쏘호텔","location": {"lon": 126.93192450000001, "lat": 37.4850658},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 관악구 신림동 1422-9"}
+{"index":{"_index":"hotel-data", "_id":"414"}}
+{"name":"서울대 상상","location": {"lon": 126.9533382, "lat": 37.47982151},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 관악구 봉천동 854-3"}
+{"index":{"_index":"hotel-data", "_id":"415"}}
+{"name":"한남 FN","location": {"lon": 127.0056524, "lat": 37.53346562},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 용산구 한남동 657-104"}
+{"index":{"_index":"hotel-data", "_id":"416"}}
+{"name":"서울대 서울","location": {"lon": 126.95149270000002, "lat": 37.48039381},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 관악구 봉천동 868-3"}
+{"index":{"_index":"hotel-data", "_id":"417"}}
+{"name":"신림 짝","location": {"lon": 126.93041799999999, "lat": 37.48555147},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 관악구 신림동 1423-22"}
+{"index":{"_index":"hotel-data", "_id":"418"}}
+{"name":"광진 헤라","location": {"lon": 127.0742925, "lat": 37.56100935},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 광진구 중곡동 611-1"}
+{"index":{"_index":"hotel-data", "_id":"419"}}
+{"name":"신촌 파르페","location": {"lon": 126.9355971, "lat": 37.55331704},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 마포구 노고산동 109-6"}
+{"index":{"_index":"hotel-data", "_id":"420"}}
+{"name":"오류 갤러리아호텔","location": {"lon": 126.8456817, "lat": 37.4959697},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 구로구 오류동 57"}
+{"index":{"_index":"hotel-data", "_id":"421"}}
+{"name":"오류 모나코","location": {"lon": 126.84435249999999, "lat": 37.49565081},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 구로구 오류동 55-19"}
+{"index":{"_index":"hotel-data", "_id":"422"}}
+{"name":"오류 세븐","location": {"lon": 126.84550929999999, "lat": 37.49621455},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 구로구 오류동 59-26"}
+{"index":{"_index":"hotel-data", "_id":"423"}}
+{"name":"오류 쎄비앙 호텔","location": {"lon": 126.84576240000001, "lat": 37.49629417},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 구로구 오류동 59-37"}
+{"index":{"_index":"hotel-data", "_id":"424"}}
+{"name":"오류 리츠","location": {"lon": 126.8462366, "lat": 37.49669484},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 구로구 오류동 33-57"}
+{"index":{"_index":"hotel-data", "_id":"425"}}
+{"name":"가산 뷰","location": {"lon": 126.88941670000001, "lat": 37.47834457},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 금천구 가산동 140-83"}
+{"index":{"_index":"hotel-data", "_id":"426"}}
+{"name":"독산 발렌타인","location": {"lon": 126.8968737, "lat": 37.46530109},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 금천구 독산동 1008-12"}
+{"index":{"_index":"hotel-data", "_id":"427"}}
+{"name":"장안 넥스","location": {"lon": 127.0691784, "lat": 37.56778434},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 동대문구 장안동 364-6"}
+{"index":{"_index":"hotel-data", "_id":"428"}}
+{"name":"청량리 XYM","location": {"lon": 127.0458781, "lat": 37.58122772},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 동대문구 청량리동 251"}
+{"index":{"_index":"hotel-data", "_id":"429"}}
+{"name":"동대문 M","location": {"lon": 127.02682920000001, "lat": 37.57529063},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 동대문구 신설동 92-125"}
+{"index":{"_index":"hotel-data", "_id":"430"}}
+{"name":"장안 이지호텔","location": {"lon": 127.0714172, "lat": 37.57005712},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 동대문구 장안동 345-17"}
+{"index":{"_index":"hotel-data", "_id":"431"}}
+{"name":"장안 디바","location": {"lon": 127.0693688, "lat": 37.5680257},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 동대문구 장안동 364-4"}
+{"index":{"_index":"hotel-data", "_id":"432"}}
+{"name":"장안 수","location": {"lon": 127.07017590000001, "lat": 37.56929022},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 동대문구 장안동 365-9"}
+{"index":{"_index":"hotel-data", "_id":"433"}}
+{"name":"장안 M&M2;","location": {"lon": 127.0711287, "lat": 37.5618258},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 동대문구 장안동 456-4"}
+{"index":{"_index":"hotel-data", "_id":"434"}}
+{"name":"경희대 Soo","location": {"lon": 127.0549997, "lat": 37.58897957},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 동대문구 휘경동 336-2"}
+{"index":{"_index":"hotel-data", "_id":"435"}}
+{"name":"장안 비브 클래식","location": {"lon": 127.0694731, "lat": 37.56818421},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 동대문구 장안동 364-3"}
+{"index":{"_index":"hotel-data", "_id":"436"}}
+{"name":"신촌 그랑프리","location": {"lon": 126.93629820000001, "lat": 37.55390126},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 마포구 노고산동 106-10"}
+{"index":{"_index":"hotel-data", "_id":"437"}}
+{"name":"신촌 시크릿","location": {"lon": 126.9363758, "lat": 37.55325619},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 마포구 노고산동 106-48"}
+{"index":{"_index":"hotel-data", "_id":"438"}}
+{"name":"신촌 위드","location": {"lon": 126.9355604, "lat": 37.55388645},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 마포구 노고산동 106-91"}
+{"index":{"_index":"hotel-data", "_id":"439"}}
+{"name":"신촌 S호텔","location": {"lon": 126.93507620000001, "lat": 37.55361949},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 마포구 노고산동 109-154"}
+{"index":{"_index":"hotel-data", "_id":"440"}}
+{"name":"신촌 VOGUE","location": {"lon": 126.9360364, "lat": 37.55310824},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 마포구 노고산동 106-69"}
+{"index":{"_index":"hotel-data", "_id":"441"}}
+{"name":"신촌 메이저","location": {"lon": 126.9353887, "lat": 37.55349352},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 마포구 노고산동 109-62"}
+{"index":{"_index":"hotel-data", "_id":"442"}}
+{"name":"신촌 라뉘호텔","location": {"lon": 126.9362216, "lat": 37.55349397},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 마포구 노고산동 106-15"}
+{"index":{"_index":"hotel-data", "_id":"443"}}
+{"name":"합정 써클호텔","location": {"lon": 126.91075479999999, "lat": 37.54885715},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 마포구 합정동 382-17"}
+{"index":{"_index":"hotel-data", "_id":"444"}}
+{"name":"신촌 가을","location": {"lon": 126.9380569, "lat": 37.5567061},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 서대문구 창천동 29-41"}
+{"index":{"_index":"hotel-data", "_id":"445"}}
+{"name":"신촌 이채호텔","location": {"lon": 126.9384054, "lat": 37.5568144},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 서대문구 창천동 29-5"}
+{"index":{"_index":"hotel-data", "_id":"446"}}
+{"name":"신촌 크럭스","location": {"lon": 126.9380569, "lat": 37.5567061},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 서대문구 창천동 29-41"}
+{"index":{"_index":"hotel-data", "_id":"447"}}
+{"name":"신촌 피오나","location": {"lon": 126.9398133, "lat": 37.55677549},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 서대문구 창천동 20-56"}
+{"index":{"_index":"hotel-data", "_id":"448"}}
+{"name":"신촌 이젠","location": {"lon": 126.93952379999999, "lat": 37.55643656},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 서대문구 창천동 20-38"}
+{"index":{"_index":"hotel-data", "_id":"449"}}
+{"name":"서초 A7호텔","location": {"lon": 127.013333, "lat": 37.48608298},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 서초구 서초동 1593-21"}
+{"index":{"_index":"hotel-data", "_id":"450"}}
+{"name":"서초 IMT1","location": {"lon": 127.0125732, "lat": 37.48608306},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 서초구 서초동 1591-7"}
+{"index":{"_index":"hotel-data", "_id":"451"}}
+{"name":"서초 오슬로","location": {"lon": 127.01296210000001, "lat": 37.48611906},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 서초구 서초동 1593-14"}
+{"index":{"_index":"hotel-data", "_id":"452"}}
+{"name":"서초 쉼표","location": {"lon": 127.02920729999998, "lat": 37.48467094},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 서초구 서초동 1355-20"}
+{"index":{"_index":"hotel-data", "_id":"453"}}
+{"name":"서초 시네마","location": {"lon": 127.0104845, "lat": 37.49215605},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 서초구 서초동 1554-12"}
+{"index":{"_index":"hotel-data", "_id":"454"}}
+{"name":"왕십리 썬","location": {"lon": 127.0348338, "lat": 37.56326566},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 성동구 도선동 115"}
+{"index":{"_index":"hotel-data", "_id":"455"}}
+{"name":"왕십리 메종","location": {"lon": 127.0355264, "lat": 37.56297353},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 성동구 도선동 34"}
+{"index":{"_index":"hotel-data", "_id":"456"}}
+{"name":"왕십리 컬리넌","location": {"lon": 127.03481540000001, "lat": 37.56263136},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 성동구 도선동 86"}
+{"index":{"_index":"hotel-data", "_id":"457"}}
+{"name":"장안 JJ","location": {"lon": 127.06084229999999, "lat": 37.56143871},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 성동구 용답동 228-6"}
+{"index":{"_index":"hotel-data", "_id":"458"}}
+{"name":"성신여대 탑텔","location": {"lon": 127.0156662, "lat": 37.5914925},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 성북구 동소문동5가 59-4"}
+{"index":{"_index":"hotel-data", "_id":"459"}}
+{"name":"성신여대 샤미소","location": {"lon": 127.01795359999998, "lat": 37.59251931},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 성북구 동선동1가 88-1"}
+{"index":{"_index":"hotel-data", "_id":"460"}}
+{"name":"신천 퍼니","location": {"lon": 127.0821787, "lat": 37.51129773},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 송파구 잠실동 181-12"}
+{"index":{"_index":"hotel-data", "_id":"461"}}
+{"name":"신천 플렉스","location": {"lon": 127.08058490000002, "lat": 37.51006626},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 송파구 잠실동 193-1"}
+{"index":{"_index":"hotel-data", "_id":"462"}}
+{"name":"신천 MW","location": {"lon": 127.08342739999999, "lat": 37.51125001},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 송파구 잠실동 184-20"}
+{"index":{"_index":"hotel-data", "_id":"463"}}
+{"name":"신천 WE2","location": {"lon": 127.0794729, "lat": 37.5110437},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 송파구 잠실동 176-9"}
+{"index":{"_index":"hotel-data", "_id":"464"}}
+{"name":"잠실 아모르","location": {"lon": 127.1100138, "lat": 37.51558549},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 송파구 방이동 38-2"}
+{"index":{"_index":"hotel-data", "_id":"465"}}
+{"name":"신천 다비드","location": {"lon": 127.07926940000002, "lat": 37.51106546},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 송파구 잠실동 176-1"}
+{"index":{"_index":"hotel-data", "_id":"466"}}
+{"name":"신천 FORM","location": {"lon": 127.0794729, "lat": 37.5110437},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 송파구 잠실동 176-9"}
+{"index":{"_index":"hotel-data", "_id":"467"}}
+{"name":"잠실 블루원","location": {"lon": 127.1140543, "lat": 37.51567176},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 송파구 방이동 49-9"}
+{"index":{"_index":"hotel-data", "_id":"468"}}
+{"name":"잠실 첼로","location": {"lon": 127.1096205, "lat": 37.51584895},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 송파구 방이동 37-3"}
+{"index":{"_index":"hotel-data", "_id":"469"}}
+{"name":"잠실 쿠키","location": {"lon": 127.10883700000001, "lat": 37.51530186},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 송파구 방이동 34-5"}
+{"index":{"_index":"hotel-data", "_id":"470"}}
+{"name":"잠실 산타페","location": {"lon": 127.109874, "lat": 37.51591719},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 송파구 방이동 38-1"}
+{"index":{"_index":"hotel-data", "_id":"471"}}
+{"name":"영등포 나인-NINE","location": {"lon": 126.9083886, "lat": 37.51828258},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 영등포구 영등포동3가 24-4"}
+{"index":{"_index":"hotel-data", "_id":"472"}}
+{"name":"영등포 샵","location": {"lon": 126.9062887, "lat": 37.51864854},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 영등포구 영등포동3가 7-12"}
+{"index":{"_index":"hotel-data", "_id":"473"}}
+{"name":"영등포 달동네","location": {"lon": 126.90854669999999, "lat": 37.51852417},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 영등포구 영등포동3가 15-5"}
+{"index":{"_index":"hotel-data", "_id":"474"}}
+{"name":"영등포 맥스","location": {"lon": 126.9071617, "lat": 37.51887268},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 영등포구 영등포동3가 16-1"}
+{"index":{"_index":"hotel-data", "_id":"475"}}
+{"name":"영등포 라이프스타일 i","location": {"lon": 126.91145759999999, "lat": 37.51719291},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 영등포구 영등포동1가 121-1"}
+{"index":{"_index":"hotel-data", "_id":"476"}}
+{"name":"영등포 샤모니","location": {"lon": 126.90393300000001, "lat": 37.52083789},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 영등포구 영등포동6가 69-1"}
+{"index":{"_index":"hotel-data", "_id":"477"}}
+{"name":"영등포 도도","location": {"lon": 126.91216829999999, "lat": 37.52077222},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 영등포구 영등포동2가 94-154"}
+{"index":{"_index":"hotel-data", "_id":"478"}}
+{"name":"영등포 R","location": {"lon": 126.9120051, "lat": 37.51721494},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 영등포구 영등포동1가 121-6"}
+{"index":{"_index":"hotel-data", "_id":"479"}}
+{"name":"영등포 라이프스타일 F","location": {"lon": 126.9111997, "lat": 37.5171783},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 영등포구 영등포동1가 121-4"}
+{"index":{"_index":"hotel-data", "_id":"480"}}
+{"name":"영등포 라이프스타일 L","location": {"lon": 126.91171100000001, "lat": 37.51720751},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 영등포구 영등포동1가 121-5"}
+{"index":{"_index":"hotel-data", "_id":"481"}}
+{"name":"영등포 Q","location": {"lon": 126.90835320000001, "lat": 37.51765906},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 영등포구 영등포동3가 22-4"}
+{"index":{"_index":"hotel-data", "_id":"482"}}
+{"name":"영등포 쟈스민","location": {"lon": 126.9088003, "lat": 37.51832615},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 영등포구 영등포동3가 23"}
+{"index":{"_index":"hotel-data", "_id":"483"}}
+{"name":"영등포 올림피아","location": {"lon": 126.90986840000001, "lat": 37.51812154},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 영등포구 영등포동3가 13-7"}
+{"index":{"_index":"hotel-data", "_id":"484"}}
+{"name":"용산 애플","location": {"lon": 126.9622611, "lat": 37.52411814},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 용산구 한강로3가 40-325"}
+{"index":{"_index":"hotel-data", "_id":"485"}}
+{"name":"이태원 디오로","location": {"lon": 126.9958725, "lat": 37.53505505},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 용산구 이태원동 124-3"}
+{"index":{"_index":"hotel-data", "_id":"486"}}
+{"name":"용산 뉴월드호텔","location": {"lon": 126.97351680000001, "lat": 37.54428921},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 용산구 남영동 42"}
+{"index":{"_index":"hotel-data", "_id":"487"}}
+{"name":"연신내 쉴","location": {"lon": 126.92071429999999, "lat": 37.62041031},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 은평구 불광동 484-64"}
+{"index":{"_index":"hotel-data", "_id":"488"}}
+{"name":"연신내 만토바","location": {"lon": 126.9214553, "lat": 37.61800336},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 은평구 대조동 185-82"}
+{"index":{"_index":"hotel-data", "_id":"489"}}
+{"name":"종로 2heaven","location": {"lon": 126.9897034, "lat": 37.57225147},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 종로구 낙원동 133"}
+{"index":{"_index":"hotel-data", "_id":"490"}}
+{"name":"종로 꾸띠","location": {"lon": 126.98957659999998, "lat": 37.57198477},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 종로구 돈의동 76-2"}
+{"index":{"_index":"hotel-data", "_id":"491"}}
+{"name":"종로 스타","location": {"lon": 126.99007479999999, "lat": 37.57153792},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 종로구 낙원동 153-2"}
+{"index":{"_index":"hotel-data", "_id":"492"}}
+{"name":"종로 POP","location": {"lon": 126.9902061, "lat": 37.5710586},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 종로구 낙원동 186"}
+{"index":{"_index":"hotel-data", "_id":"493"}}
+{"name":"종로 카오산스토리","location": {"lon": 126.9913156, "lat": 37.56983694},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 종로구 관수동 56"}
+{"index":{"_index":"hotel-data", "_id":"494"}}
+{"name":"종로 라포레-구 POP3","location": {"lon": 126.98989820000001, "lat": 37.5710838},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 종로구 낙원동 184"}
+{"index":{"_index":"hotel-data", "_id":"495"}}
+{"name":"종로 POP2","location": {"lon": 126.9900884, "lat": 37.57109463},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 종로구 낙원동 185-1"}
+{"index":{"_index":"hotel-data", "_id":"496"}}
+{"name":"주안 주얼리","location": {"lon": 126.6864814, "lat": 37.45956018},"name":"인천시/인천광역시","name":"MOTEL","name":"인천 남구 주안동 68-2"}
+{"index":{"_index":"hotel-data", "_id":"497"}}
+{"name":"종로 쉴","location": {"lon": 126.9901747, "lat": 37.56923138},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 종로구 관수동 137"}
+{"index":{"_index":"hotel-data", "_id":"498"}}
+{"name":"종로 HOTEL YOU","location": {"lon": 126.9896039, "lat": 37.57156671},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 종로구 낙원동 166"}
+{"index":{"_index":"hotel-data", "_id":"499"}}
+{"name":"종로 에비뉴 162","location": {"lon": 126.98983940000001, "lat": 37.57122435},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 종로구 낙원동 162"}
+{"index":{"_index":"hotel-data", "_id":"500"}}
+{"name":"노원 이프-IF","location": {"lon": 127.0584027, "lat": 37.65499148},"name":"서울시/서울특별시","name":"MOTEL","name":"서울 노원구 상계동 706-1"}
