@@ -1,0 +1,15 @@
+{
+	"mappings": {
+		"hotel" : {
+			"properties": {
+				"name": { "type": "text" },
+				"area": { "type": "text" },
+				"location": {
+					"type": "geo_point"
+				},
+				"type": {"type": "text"},
+				"address": {"type": "text"}
+			}
+		}
+	}
+}
