@@ -12,30 +12,4 @@ import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
 internal class ApiServiceTest {
-
-    lateinit var apiService: ApiService
-
-
-    @Qualifier("hotelRepository")
-    @Autowired
-    lateinit var hotelRepository: HotelRepository
-
-
-    @BeforeEach
-    fun setup(): Unit{
-        apiService = ApiService(hotelRepository)
-    }
-
-//    @Test
-//    @DisplayName("findTop10")
-//    fun findTop10(): Unit {
-//        val findAll = apiService.findTop10()
-//        println(findAll)
-//    }
-
-    @Test
-    fun findCount() {
-        val count: Long = apiService.findCount()
-        println(count)
-    }
 }

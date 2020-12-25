@@ -6,11 +6,40 @@ import org.springframework.data.elasticsearch.annotations.FieldType
 import javax.persistence.Id
 
 @Document(indexName = "hotel", createIndex = true)
-data class Hotel(
-        @Id @Field(type = FieldType.Auto) val id: String,
-        @Field(type = FieldType.Text) val name: String,
-        @Field(type = FieldType.Text) val address: String,
-        @Field(type = FieldType.Text) val area: String,
-        @Field(type = FieldType.Text) val type: String,
-//        @Field(type = FieldType.) val location: String
-)
+class Hotel(
+        name: String,
+        address: String,
+        area: String,
+        type: String,
+        number: Long,
+        location: MyGeoPoint
+) {
+    @Id
+    @Field(type = FieldType.Auto)
+    val id: String? = null
+
+    @Field(type = FieldType.Text)
+    val name: String = name
+
+    @Field(type = FieldType.Text)
+    val address: String = address
+
+    @Field(type = FieldType.Text)
+    val area: String = area
+
+    @Field(type = FieldType.Text)
+    val type: String = type
+
+    @Field(type = FieldType.Long)
+    val number: Long = number
+
+    var location: MyGeoPoint = location
+
+    class MyGeoPoint(lon: Any?, lat: Any?) {
+        @Field(type = FieldType.Float)
+        val lon: Double = lon.toString().toDoubleOrNull() ?: 0.0
+
+        @Field(type = FieldType.Float)
+        val lat: Double = lat.toString().toDoubleOrNull() ?: 0.0
+    }
+}
