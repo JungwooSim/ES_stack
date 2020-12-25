@@ -1,7 +1,11 @@
 {
+	"settings": {
+		"max_result_window" : 100000
+	},
 	"mappings": {
 		"hotel" : {
 			"properties": {
+				"number": {"type": "integer"},
 				"name": { "type": "text" },
 				"area": { "type": "text" },
 				"location": {
