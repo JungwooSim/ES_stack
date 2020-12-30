@@ -3,17 +3,15 @@
 		"max_result_window" : 100000
 	},
 	"mappings": {
-		"hotel" : {
-			"properties": {
-				"number": {"type": "integer"},
-				"name": { "type": "text" },
-				"area": { "type": "text" },
-				"location": {
-					"type": "geo_point"
-				},
-				"type": {"type": "text"},
-				"address": {"type": "text"}
-			}
+		"properties": {
+			"number": {"type": "integer"},
+			"name": { "type": "text" },
+			"area": { "type": "text" },
+			"location": {
+				"type": "geo_point"
+			},
+			"type": {"type": "text"},
+			"address": {"type": "text"}
 		}
 	}
 }
